@@ -1,0 +1,26 @@
+RZWQM2-2D
+*****************************
+* Plot definitions          *
+*   - Num Columns           *
+*   - Num Subplots          *
+*****************************
+   6  1
+*****************************
+* Subplot definitions       *
+*****************************
+1
+0 5
+1  2  3 4 5
+Plant Nitrogen Percentages
+Days
+% N
+*****************************
+*       COLUMN LABELS       *
+*****************************
+DAY
+% LEAF N
+% STEM N
+% PROPAGULE N
+% ROOT N
+% SEED N
+****************** DATA STARTS HERE *****************

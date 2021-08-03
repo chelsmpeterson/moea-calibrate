@@ -1,0 +1,52 @@
+*SUNFLOWER SPECIES COEFFICIENTS: GECER040 MODEL
+
+*TEMPERATURE EFFECTS
+!       TBASE TOP1  TOP2  TMAX
+  PRFTC  4.0  17.0  31.0  45.0     !Effect of temperature on photosynthesis
+  RGFIL  4.0  17.0  31.0  45.0     !Effect of temperature on relative grain filling rate
+
+*PHOTOSYNTHESIS PARAMETERS 
+  PARSR   0.50      !Conversion of solar radiation to PAR 
+  CO2X     0   220   330   440   550   660   770   880   990  9999
+  CO2Y  0.00  0.71  1.00  1.08  1.17  1.25  1.32  1.38  1.43  1.50
+
+*STRESS RESPONSE
+  FSLFW   0.060     !Fraction of leaf area senesced under 100% water stress, 1/day
+  FSLFN   0.050     !Fraction of leaf area senesced under 100% nitrogen stress, 1/day
+  
+*SEED GROWTH PARAMETERS     
+  SDSZ   .0800      !Maximum potential seed size, mg/sd 
+  RSGR     0.1      !Relative seed growth rate below which plant may mature early
+  RSGRT    5.0      !Number of consecutive days relative seed growth rate is below RSGR that triggers early maturity
+  CARBOT   7.0      !Number of consecutive days CARBO is less than .001 before plant matures due to temperature, water or nitrogen stress
+  DSGT    40.0      !Maximum days from sowing to germination before seed dies.
+  DGET   150.0      !Growing degree days between germination and emergence after which the seed dies due to drought
+  SWCG    0.02      !Minimimum available soil water required for seed germination, cm3/cm3 
+  
+*EMERGENCE INITIAL CONDITIONS  
+  STMWTE  0.01      !Stem weight at emergence, g/plant
+  RTWTE   0.02      !Root weight at emergence, g/plant
+  LFWTE   0.03      !Leaf weight at emergence, g/plant
+  SEEDRVE 0.20      !Carbohydrate reserve in seed at emergence, g/plant
+  LEAFNOE 1.0       !Leaf number at emergence, #/plant
+  PLAE    3.0       !Leaf area at emergence, cm2/plant
+
+*NITROGEN PARAMETERS
+  TMNC    0.00450   !Plant top minimum N concentration g N/g dry matter
+  TANCE   0.0440    !Nitrogen content in above ground biomass at emergence, g N/g dry matter
+  RCNP    0.01060   !Root critical nitrogen concentration, g N/g root dry weight
+  RANCE   0.0220    !Root N content at emergence   g N/g root
+
+*ROOT PARAMETERS
+  PORM    0.02      !Minimum volume required for supplying oxygen to roots for optimum growth (1-1.0)
+  RWMX    0.03      !Not used in ceres, but passed through AltPlant for use elsewhere
+  RLWR    1.70      !mz_roots.for
+  RWUEP1  1.50  
+
+
+
+  
+
+
+
+

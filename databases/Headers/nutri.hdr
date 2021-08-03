@@ -1,0 +1,103 @@
+RZWQM2-2D
+*****************************
+* Plot definitions	    *
+*   - Num Columns           *
+*   - Num Subplots	    *
+*****************************
+19  8
+*****************************
+* Subplot definitions	    *
+*****************************
+1
+0  3
+9  10  16
+Total Soil Profile Nitrogen
+Days
+N (kg/ha)
+2
+0  1  1
+1
+2
+Residue Pools
+Days
+Residue Pool#1 N (kg/ha)
+Residue Pool#2 N (kg/ha)
+3
+0 2 4
+11 12
+13 14 17 18
+Losses of Nitrogen
+Days
+Gas Losses [kg/ha]
+Solution Losses [kg/ha]
+4
+0 1 1
+9
+15
+Plant Uptake Dynamic
+Days
+NO3 [kg/ha]
+Plant Uptake [kg/ha]
+5
+0 2 3 3
+1 2
+3 4 5
+6 7 8
+The Big Picture
+Days
+Residue [kg/ha]
+Humus [kg/ha]
+Bugs [kg/ha]
+6
+0 1 1 1
+17
+18
+14
+Subsurface Losses
+Days
+Tile Drainage [kg/ha]
+Lateral Flow  [kg/ha]
+Deep Seepage  [kg/ha]
+6
+0 1 1 1
+3
+4
+5
+Humus Pools
+Days
+Fast Pool [kg/ha]
+Intermediate Pool [kg/ha]
+Slow Pool [kg/ha]
+6
+0 1 1 1
+6
+7
+8
+MicroOrganism Pools
+Days
+Aerobic Heterotrophs [kg/ha]
+Autotrophs [kg/ha]
+Anerobic Heterotrophs [kg/ha]
+*****************************
+*       COLUMN LABELS       *
+*****************************
+DAY
+RESIDUE POOL 1 (kg/ha)
+RESIDUE POOL 2 (kg/ha)
+Fast Pool [kg/ha]
+Intermediate Pool [kg/ha]
+Slow Pool [kg/ha]
+Aerobic Heterotrophs [kg/ha]
+Autotrophs [kg/ha]
+Anerobic Heterotrophs [kg/ha]
+NO3-N (kg/ha)
+NH4-N (kg/ha)
+DENITRIFICATION LOSS (kg/ha)
+VOLATILIZATION LOSS (kg/ha)
+RUNOFF LOSS OF NO3-N (kg/ha)
+SEEPAGE LOSS OF NO3-N (kg/ha)
+N-UPTAKE BY PLANTS (kg/ha)
+MINERALIZATION GAIN (kg/ha)
+TILE DRAINAGE NO3-N (kg/ha)
+LATERAL FLOW NO3-N (kg/ha)
+****************** DATA STARTS HERE *****************

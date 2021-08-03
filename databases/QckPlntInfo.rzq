@@ -1,0 +1,249 @@
+==============================================================
+=
+=         . Q U I C K P L A N T   D A T A B A S E  
+=         .......... BY KEN ROJAS  
+= 
+= MODIFICATIONS:
+= Pat Bartling 02-10-2009 Add Columns for Root Biomass at Harvest and CN Ratio of Roots
+= Pat Bartling 02-17-2009 Added Almonds
+= Pat Bartling 04-29-2009 Remove Almonds now included in QCKTREE module
+= Pat Bartling 10-31-2012 Added variables 11-14 with defaults. They are 
+=	Initial Height and LAI when breaking dormancy, final LAI and 
+=	fraction of growing season completed at peak N uptake
+==============================================================
+=
+=     Name   DESCRIPTION OF VARIETY (30 CHARACTERS, MAXIMUM)
+=            START EACH NAME WITH A INDEX NUMBER > 9000 AND < 9500, FOLLOWED BY THE NAME.  
+=            NOTE THIS NAME MUST BE EXACTLY THE SAME AS USED IN THE PLANT
+=            PARAMETERIZATION SECTION OF RZWQM.DAT
+=
+=     1  LENGTH OF THE GROWTH SEASON (DAYS)
+=        ... THIS IS THE AMOUNT OF TIME THAT THE PLANT GROWs
+=     2  TOTAL SEASONAL NITROGEN UPTAKE (KG/HA)
+=        ....THIS AMOUNT IS DISTRIBUTED OVER THE WHOLE GROWTH SEASON IN
+=            A TRIANGULAR DISTRIBUTION.
+=     3  MAXIMUM SEASONAL HEIGHT OF THE CROP (CM)
+=        ....THE HEIGHT INCREASES FROM PLANTING DATE LINEARLY UNTIL IT 
+=            REACHES THE MAXIMUM AT 7/10 OF THE GROWING SEASON (70%).
+=     4  MAXIMUM SEASONAL LEAF AREA INDEX
+=        ....DISTRIBUTED THE SAME AS HEIGHT
+=     5  AMOUNT OF  PRODUCED AT HARVEST TIME (KG/HA)
+=        ....THIS IS THE AMOUNT MATERIAL THAT WILL BE ADDED TO THE 
+=            SURFACE RESIDUE POOL (RM) AT THE TIME OF HARVEST.  A VALUE 
+=            OF 1/4 THIS AMOUNT IS USED AS DEAD ROOT MATERIAL, UNLESS OTHERWISE 
+=            SPECIFIED IN VARIABLE 9, AND IS DISTRIBUTED BY RDF.
+=     6  C:N RATIO OF THE STOVER MATERIAL
+=        ....THIS VALUE IS USED FOR THE SURFACE RESIDUE PORTION.
+=     7  EARLIEST DAY OF THE YEAR THAT A DORMANT PLANT WILL RECOVER ACTIVITY
+=        ....THIS WILL BE USED BY PLANTS THAT VERNALIZE LIKE WINTER WHEAT, ETC.
+=            ONCE THE PLANT BECOMES DORMANT IN THE FALL IT WILL WAIT FOR A PERIOD
+=            TIME. AFTER THIS DAY, THE PLANT WILL USE A 10-DAY MOVING AVERAGE
+=            TEMPERATURE AND CHECK IF IT IS GREATER THAN 0.0 DEGREES C BEFORE
+=            EMERGING OUT OF DORMANCY.  THIS NUMBER IS NOT USED BY NON-WINTER CROPS
+=     8  MAXIMUM DEPTH THAT ROOTS EXTEND INTO THE PROFILE (CM)
+=        ...MAXIMUM ROOTING DEPTH IS REACHED AT 7/10 OF GROWING SEASON.
+=     9  ROOT BIOMASS AT HARVEST (KG/HA DRY MATTER)
+=        ....THIS WILL BE BE ADDED TO THE BELOWGROUND DEAD ROOT RESIDUE POOL
+=    10  C:N RATIO OF ROOT MATERIAL
+=        ....THIS VALUE IS USED FOR THE BELOWGROUND DEAD ROOT PORTION.
+=    11  INITIAL LAI AFTER DORMANCY
+=    12  FINAL LAI AT HARVEST
+=    13  INITIAL PLANT HEIGHT AFTER DORMANCY
+=    14  FRACTION OF GROWING SEASON COMPLETED AT PEAK NITROGEN UPTAKE 
+=     ...REPEAT NAME AND 1-14 FOR EACH CROP
+==============================================================
+9000  Alfalfa 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9001  Arrowroot 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9002  Artichokes 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9003  Asparagus 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9004  Beans 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9005  Blueberry 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9006  Brussels sprouts 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9007  Broccoli
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9008  Cabbage
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9009  Cantaloupe
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9010  Carrot 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9011  Cassava
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9012  Castor bean 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9013  Cauliflower
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9014  Celery 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9015  Chick pea (gram) 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9016  Chicory 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9017  Chicory for greens 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9018  Chilli
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9019  Chinese cabbage 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9020  Clover 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9021  Cocoa
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9022  Coffee 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9023  Corn (sweet)
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9024  Corn (silage)
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9025  Corn (grain)
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9026  Cotton 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9027  Cottonseed 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9028  Cowpea 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9029  Cranberry 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9030  Cress 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9031  Cucumber 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9032  Currants 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9033  Dry broad bean
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9034  Dry garlic 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9035  Dry onion 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9036  Dry peppers
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9037  Edible dry beans 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9038  Edible dry peas 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9039  Eggplant 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9040  Endive 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9041  Finger millet
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9042  Flax (linseed) 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9043  Flax for fibre 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9044  Gooseberry 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9045  Gourd 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9046  Green garlic 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9047  Green onion 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9048  Groundnut (peanut) 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9049  Hops 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9050  Jute 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9051  Kale 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9052  Leek 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9053  Lentil 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9054  Mustard 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9055  Oat Straw 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9056  Oats 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9057  Okra 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9058  Peas 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9059  Peanuts 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9060  Potato 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9061  Pumpkin 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9062  Pyrethrum 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9063  Radish 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9064  Rapeseed (colza) 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9065  Raspberry 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9066  Red clover
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9067  Red beet 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9068  Rhubarb 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9069  Rice Dryland (upland) 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9070  Rutabagas
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9071  Safflower seed 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9072  Salad crops 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9073  Sesame 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9074  Sorghum
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9075  Soybean 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9076  Spinach 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9077  Spring barley 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9078  Spring rye 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9079  Spring wheat 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9080  Squash 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9081  Strawberry 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9082  Sugar beet 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9083  Sunflower 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9084  Sweet pepper 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9085  Sweet potato 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9086  Taro 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9087  Tea 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7 
+9088  Tobacco 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0  0 4 0 .7
+9089  Tomato 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0  0 4 0 .7
+9090  Turnips 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9091  Vetches 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9092  Watermelon 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9093  Winter barley 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9094  Winter rye 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+9095  Winter wheat 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0  0 4 0 .7
+9096  Yam 
+	   100  100.0  30.0  4.0  0.0  25.0  1  30 0.0 50.0 0 4 0 .7
+

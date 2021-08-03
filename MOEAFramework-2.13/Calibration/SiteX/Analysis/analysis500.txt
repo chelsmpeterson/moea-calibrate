@@ -1,0 +1,22 @@
+eMOEA:
+    Hypervolume: 0.929344157903643
+    GenerationalDistance: 0.0
+    InvertedGenerationalDistance: 0.02549899638647154
+    AdditiveEpsilonIndicator: 0.05196511498680023
+    MaximumParetoFrontError: 0.0
+    Spacing: 0.18638385380643638
+    Contribution: 0.8913043478260869
+    R1Indicator: 0.01978021978021978
+    R2Indicator: 0.5331777998600644
+    R3Indicator: 0.5437698978041932
+GDE3:
+    Hypervolume: 0.8518302829191337
+    GenerationalDistance: 0.06570909752319759
+    InvertedGenerationalDistance: 0.10900834134665541
+    AdditiveEpsilonIndicator: 0.1029927786441849
+    MaximumParetoFrontError: 2.3954897590140023
+    Spacing: 0.5352822705490803
+    Contribution: 0.10869565217391304
+    R1Indicator: 0.015384615384615385
+    R2Indicator: 0.5670598858998899
+    R3Indicator: 0.5783155273342011

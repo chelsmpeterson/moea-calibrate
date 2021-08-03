@@ -1,0 +1,49 @@
+!SUNFLOWER CULTIVAR COEFFICIENTS: GECER040 MODEL
+!
+!The P1 values for the varieties used in experiments IBWA8301 and
+!UFGA8201 were recalibrated to obtain a better fit for version 3
+!of the model. After converting from 2.1 to 3.0 the varieties
+!IB0035, IB0060, and IB0063 showed an earlier simulated flowering
+!date. To correct this, the P1 values were recalibrated.
+!The reason for this is that there was an error in PHASEI in
+!version 2.1 that had TLNO=IFIX(CUMDTT/21.+6.) rather than
+!TLNO=IFIX(SUMDTT/21.+6.); see p. 74 of Jones & Kiniry.
+!-Walter Bowen, 22 DEC 1994.
+!
+!All G2 values were increased by a factor of 1.1 for Ritchie's
+!change to RUE -Walter, 28 DEC 1994
+!
+! COEFF       DEFINITIONS
+! ========    ===========
+! VAR#        Identification code or number for a specific cultivar
+! VAR-NAME    Name of cultivar
+! ECO#        Ecotype code or this cultivar, points to the Ecotype in the
+!             ECO file (currently not used).
+! P1          Thermal time from seedling emergence to the end of the juvenile
+!             phase (expressed in degree days above a base temperature of 8øC)
+!             during which the plant is not responsive to changes in
+!             photoperiod. (250-450)
+! P2          Extent to which development (expressed as days) is delayed for
+!             each hour increase in photoperiod above the longest photoperiod
+!             at which development proceeds at a maximum rate (which is
+!             considered to be 12.5 hours). (0.5-12)
+! P5          Thermal time from silking to physiological maturity (expressed
+!             in degree days above a base temperature of 8øC). (550-750)
+! G2          Maximum possible number of kernels per plant.(1500-3000)
+! G3          Kernel filling rate during the linear grain filling stage and
+!             under optimum conditions (mg/day). (1.2-2.4)
+! PHINT       Phylochron interval; the interval in thermal time (degree days)
+!             between successive leaf tip appearances. (24-39)
+!
+@VAR#  VRNAME..........   ECO#    P1    P2    P5    G2    G3    O1
+!                                  1     2     3     4     5     6
+IB0003 894              IB0001 274.0  9.33 600.0 2800.  1.70    65
+IB0005 SUNGRO-380       IB0001 295.0 12.32 600.0 2800.  1.70    65
+IB0008 SH-3000          IB0001 250.0  2.45 600.0 2800.  1.70    65
+IB0009 E-353            IB0001 245.0  3.74 700.0 1500.  2.90    65
+IB0011 FLORASOL         IB0001 360.0  1.60 600.0 2800.  1.70    65
+IB0013 SUNGRO-385       IB0001 325.0 12.32 700.0 2800.  1.90    65
+IB0014 SW-101           IB0001 210.0  3.74 800.0 1000.  2.50    65
+IB0015 S-530            IB0001 335.0 12.32 700.0 3700.  1.90    65
+IB0016 G-100            IB0001 309.0  2.99 732.0 2800.  1.81    65
+IB0017 CONTIFLOR-3      IB0001 325.5  0.14 712.0 2900.  1.67    65

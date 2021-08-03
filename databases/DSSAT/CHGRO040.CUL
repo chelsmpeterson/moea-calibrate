@@ -1,0 +1,44 @@
+!CHICKPEA CULTIVAR COEFFICIENTS: CRGRO040 MODEL
+!
+! COEFF   DEFINITIONS
+! =====   ===========
+! ECO#    Code for the ecotype to which this cultivar belongs (see *.eco file)
+! CSDL    Critical Short Day Length below which reproductive development
+!         progresses WITH daylength effect (for longday plants) (hour)
+! PPSEN   Slope of the relative response of development to photoperiod with time
+!         (negative for longday plants) (1/hour)
+! EM-FL   Time between plant emergence and flower appearance (R1)
+!         (photothermal days)
+! FL-SH   Time between first flower and first pod (R3) (photothermal days)
+! FL-SD   Time between first flower and first seed (R5) (photothermal days)
+! SD-PM   Time between first seed (R5) and physiological maturity (R7)
+!         (photothermal days)
+! FL-LF   Time between first flower (R1) and end of leaf expansion
+!         (photothermal days)
+! LFMAX   Maximum leaf photosynthesis rate at 30 C, 350 vpm CO2, and high light
+!         (mg CO2/m2-s)
+! SLAVR   Specific leaf area of cultivar under standard growth conditions
+!         (cm2/g)
+! SIZLF   Maximum size of full leaf (three leaflets) (cm2)
+! XFRT    Maximum fraction of daily growth that is partitioned to seed + shell
+! WTPSD   Maximum weight per seed (g)
+! SFDUR   Seed filling duration for pod cohort at standard growth conditions
+!         (photothermal days)
+! SDPDV   Average seed per pod under standard growing conditions (#/pod)
+! PODUR   Time required for cultivar to reach final pod load under optimal
+!         conditions (photothermal days)
+!
+@VAR#  VRNAME..........   ECO#  CSDL PPSEN EM-FL FL-SH FL-SD SD-PM FL-LF LFMAX SLAVR SIZLF  XFRT WTPSD SFDUR SDPDV PODUR
+!                                  1     2     3     4     5     6     7     8     9    10    11    12    13    14    15
+990001 Kabuli Type      KABULE 11.00 -.143  30.0   8.0  15.0 35.00 42.00 1.700  150.  10.0  1.00 0.181  29.0  1.20  18.0
+990002 Desi Type        DESI   11.00 -.143  37.0   8.0  15.0 38.00 42.00 1.700  150.  10.0  1.00 0.283  29.0  1.00  18.0
+IB0001 ANNIGERI         ANNIGE 11.00 -.143  30.0   8.0  15.0 35.00 42.00 1.700  150.  10.0  1.00 0.181  29.0  1.20  18.0
+IB0002 K 850            DFAULT 11.00 -.143  37.0   8.0  15.0 38.00 42.00 1.700  150.  10.0  1.00 0.283  29.0  1.00  18.0
+IB0003 G 130            DFAULT 11.00 -.143  38.0   8.0  15.0 38.00 42.00 1.700  150.  10.0  1.00 0.181  29.0  1.20  18.0
+IB0004 JG 74            JG 74  11.00 -.143  41.0  11.0  14.0 26.00 34.00 1.700  150.  10.0  1.00 0.190  22.0  1.60  18.0
+IB0005 ICCV 88202       DFAULT 11.00 -.143  30.0   8.0  15.0 35.00 42.00 1.700  150.  10.0  1.00 0.181  29.0  1.20  18.0
+IB0006 ICCC 42          DFAULT 11.00 -.143  30.0   8.0  15.0 35.00 42.00 1.700  150.  10.0  1.00 0.181  29.0  1.20  18.0
+IB0007 ICCV 10          DFAULT 11.00 -.143  30.0   8.0  15.0 35.00 42.00 1.700  150.  10.0  1.00 0.181  29.0  1.20  18.0
+IB0008 ICCV 2           DFAULT 11.00 -.143  30.0   8.0  15.0 35.00 42.00 1.700  150.  10.0  1.00 0.181  29.0  1.20  18.0
+IB0009 ICCC 32          DFAULT 11.00 -.143  30.0   8.0  15.0 35.00 42.00 1.700  150.  10.0  1.00 0.181  29.0  1.20  18.0
+IB0011 ICCC 37          DFAULT 11.00 -.143  30.0   8.0  15.0 35.00 42.00 1.700  150.  10.0  1.00 0.181  29.0  1.20  18.0

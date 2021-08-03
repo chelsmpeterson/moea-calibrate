@@ -1,0 +1,90 @@
+!PEANUT CULTIVAR COEFFICIENTS: CRGRO040 MODEL
+!
+! COEFF   DEFINITIONS
+! =====   ===========
+! ECO#    Code for the ecotype to which this cultivar belongs (see *.eco file)
+! CSDL    Critical Short Day Length below which reproductive development
+!         progresses with no daylength effect (for shortday plants) (hour)
+! PPSEN   Slope of the relative response of development to photoperiod with time
+!         (positive for shortday plants) (1/hour)
+! EM-FL   Time between plant emergence and flower appearance (R1)
+!         (photothermal days)
+! FL-SH   Time between first flower and first pod (R3) (photothermal days)
+! FL-SD   Time between first flower and first seed (R5) (photothermal days)
+! SD-PM   Time between first seed (R5) and physiological maturity (R7)
+!         (photothermal days)
+! FL-LF   Time between first flower (R1) and end of leaf expansion
+!         (photothermal days)
+! LFMAX   Maximum leaf photosynthesis rate at 30 C, 350 vpm CO2, and high light
+!         (mg CO2/m2-s)
+! SLAVR   Specific leaf area of cultivar under standard growth conditions
+!         (cm2/g)
+! SIZLF   Maximum size of full leaf (three leaflets) (cm2)
+! XFRT    Maximum fraction of daily growth that is partitioned to seed + shell
+! WTPSD   Maximum weight per seed (g)
+! SFDUR   Seed filling duration for pod cohort at standard growth conditions
+!         (photothermal days)
+! SDPDV   Average seed per pod under standard growing conditions (#/pod)
+! PODUR   Time required for cultivar to reach final pod load under optimal
+!         conditions (photothermal days)
+!
+! For typical cultivars, use TAMNUT for typical Spanish, FLORUNNER for typical
+! runner virginia type, and FLORIGIANT for large-seeded Virginia runner type,
+! EARLY BUNCH for early Virginia bunch type, and CHICO for earliest Spanish.
+! These cultivars have been subjected to other calibration data sets.
+! Of the above cultivars, Marc I and Southern Runner are also well tested.
+! Those with "v tamn" or "v flor" or "v Ma" are presumed to be like TAMNUT
+! or FLORUNNER or MARC I, with no testing done. NC7 and GK3 not tested.
+! Cultivars 19-38 tested somewhat with Australian and India data, & 31-35
+! also tested with some data at Gainesville.
+!
+@VAR#  VRNAME..........   ECO#  CSDL PPSEN EM-FL FL-SH FL-SD SD-PM FL-LF LFMAX SLAVR SIZLF  XFRT WTPSD SFDUR SDPDV PODUR
+!                                  1     2     3     4     5     6     7     8     9    10    11    12    13    14    15
+990001 Spanish type     PN0007 11.84  0.00  17.4   7.0  17.5 62.00 67.00  1.28  245.  16.0  0.84 0.360  29.0  1.65  15.0
+990002 Runner Type      PN0001 11.84  0.00  21.2   8.0  17.8 75.30 85.00  1.40  260.  18.0  0.94 0.650  40.0  1.65  25.0
+IB0001 STARR, v tamnut  PN0007 11.84  0.00  17.4   7.0  17.5 62.00 67.00  1.28  245.  16.0  0.84 0.360  29.0  1.65  15.0
+!TRY02 FLORUNNER        PN0001 11.84  0.00  21.3   9.4  19.0 74.10 85.00  1.40  260.  18.0  0.91 0.680  39.0  1.65  24.0
+IB0002 FLORUNNER        PN0001 11.84  0.00  21.2   9.2  18.8 74.30 85.00  1.40  260.  18.0  0.92 0.680  40.0  1.65  24.0
+!!0002 FLORUNNER        PN0001 11.84  0.00  21.2   8.0  17.8 75.30 85.00  1.40  260.  18.0  0.94 0.650  40.0  1.65  25.0
+!B0003 FLORIGIANT       PN0008 11.84  0.00  21.2   8.5  20.3 73.00 85.00  1.40  260.  18.0  0.91 0.990  38.0  1.65  26.0
+IB0003 FLORIGIANT new   PN0008 11.84  0.00  21.2   8.5  20.3 73.00 85.00  1.38  255.  18.0  0.88 0.990  38.0  1.65  27.0
+IB0004 VALENCIA, v tamn PN0007 11.84  0.00  17.4   7.0  17.5 62.00 67.00  1.28  245.  16.0  0.84 0.360  29.0  2.50  15.0
+!B0005 TAMNUT           PN0007 11.84  0.00  17.4   7.0  17.5 62.00 67.00  1.28  245.  16.0  0.84 0.360  29.0  1.65  15.0
+IB0005 TAMNUT new       PN0007 11.84  0.00  17.4   7.0  17.0 62.00 67.00  1.28  245.  16.0  0.84 0.360  29.0  1.65  16.0
+IB0006 PRONTO, v tamnu  PN0007 11.84  0.00  17.4   7.0  17.5 62.00 67.00  1.28  245.  16.0  0.84 0.360  29.0  1.65  15.0
+!B0007 MARC I           PN0009 11.84  0.00  20.0   7.0  17.0 74.00 77.00  1.40  275.  18.0  0.95 0.660  40.0  1.65  23.0
+IB0007 MARC I           PN0009 11.84  0.00  20.0   7.0  17.0 74.00 77.00  1.42  270.  18.0  0.93 0.690  40.0  1.65  23.0
+IB0008 CHICO            PN0006 11.84  0.00  16.4   7.0  13.5 59.50 63.00  1.04  285.  16.0  0.90 0.310  22.0  1.75  13.0
+IB0009 AGRITEC-127,v Ma PN0009 11.84  0.00  20.0   7.0  17.0 74.00 77.00  1.40  275.  18.0  0.95 0.660  40.0  1.65  23.0
+!B0011 EARLY RUNNER     PN0002 11.84  0.00  21.6   8.3  17.8 80.00 87.00  1.28  270.  18.0  0.85 0.570  36.0  1.65  28.0
+IB0011 EARLY RUNNER new PN0002 11.84  0.00  21.6   8.5  17.8 80.00 87.00  1.28  270.  18.0  0.85 0.570  36.0  1.65  27.0
+IB0013 SUNRUNNER,v flor PN0001 11.84  0.00  21.2   8.0  17.8 75.30 85.00  1.40  260.  18.0  0.94 0.650  40.0  1.65  25.0
+!B0015 SOUTHERN RUNNER  PN0002 11.84  0.00  22.9   8.2  18.2 82.60 88.00  1.30  265.  17.0  0.85 0.620  40.0  1.65  30.0
+IB0015 SOUTHERN RUNNER  PN0002 11.84  0.00  22.9   8.2  18.2 82.60 88.00  1.30  265.  17.0  0.84 0.630  40.0  1.65  30.0
+!B0016 EARLY BUNCH      PN0004 11.84  0.00  21.9   7.6  16.5 72.40 77.00  1.34  275.  20.0  0.95 1.020  44.0  1.65  23.0
+IB0016 EARLY BUNCH      PN0004 11.84  0.00  21.9   7.6  16.5 72.40 77.00  1.34  270.  20.0  0.93 1.100  44.0  1.65  22.0
+IB0017 NC7, VIRGINIA    PN0004 11.84  0.00  21.0   8.0  20.3 73.00 85.00  1.36  270.  20.0  0.94 1.000  38.0  1.65  30.0
+IB0018 GK3, VIRGINIA    PN0001 11.84  0.00  21.0   8.0  20.3 73.00 85.00  1.36  270.  18.0  0.94 1.000  38.0  1.65  30.0
+IB0019 SHULAMIT, VA BUN PN0005 11.84  0.00  20.8   7.8  17.5 76.10 80.00  1.35  220.  19.0  0.93 0.980  40.0  1.65  25.0
+IB0020 TIFTON-8,FLORIG  PN0011 11.84  0.00  21.9   8.2  19.7 74.50 80.00  1.37  205.  19.0  0.73 0.910  38.0  1.65  28.0
+IB0021 Q18801,earlybun  PN0010 11.84  0.00  21.9   8.0  17.8 74.60 75.00  1.37  240.  19.0  0.87 1.180  44.0  1.65  24.0
+IB0022 VIRG BUN, MODIF  PN0013 11.84  0.00  21.9   8.5  20.3 74.50 87.00  1.33  275.  19.0  0.76 0.880  38.0  1.65  27.0
+IB0023 MCCUBBIN, m TAMN PN0007 11.84  0.00  20.0   7.5  17.5 70.00 75.00  1.32  230.  17.0  0.82 0.520  32.0  1.65  19.0
+IB0024 TMV2, mod tamnu  PN0007 11.84  0.00  17.4   7.0  17.5 62.00 75.00  1.31  270.  16.0  0.80 0.360  29.0  1.65  15.0
+IB0025 TAPIR, mod tamn  PN0007 11.84  0.00  17.4   7.0  17.5 62.00 75.00  1.32  265.  16.0  0.80 0.360  29.0  1.65  13.0
+IB0026 ROBUT-33,uf v35  PN0015 11.84  0.00  19.0   7.0  17.5 70.00 75.00  1.28  260.  16.0  0.84 0.500  29.0  1.65  15.0
+IB0027 TMV-2,uf v 24    PN0007 11.84  0.00  19.0   7.0  17.5 62.00 69.00  1.28  270.  16.0  0.80 0.370  29.0  1.65  15.0
+IB0031 F81206,LS-RESnew PN0014 11.84  0.00  23.0   8.0  19.5 77.00 88.00  1.27  265.  18.0  0.83 0.720  38.0  1.65  29.0
+IB0032 MA72*94-12,LS-Rs PN0014 11.84  0.00  26.0  10.5  22.5 74.50 88.00  1.27  255.  18.0  0.57 0.720  38.0  1.65  30.0
+!B0031 F81206,LS-RES    PN0014 11.84  0.00  23.0   8.0  19.5 77.00 88.00  1.28  265.  18.0  0.82 0.720  38.0  1.65  28.0
+!B0032 MA72*94-12,LS-Rs PN0014 11.84  0.00  25.0  10.0  22.0 76.00 88.00  1.28  260.  18.0  0.58 0.720  38.0  1.65  30.0
+IB0033 861 VIRGINIA BUN PN0004 11.84  0.00  21.0   8.0  20.0 75.00 85.00  1.30  275.  20.0  0.76 0.550  38.0  1.65  30.0
+IB0034 897 VIRGINIA BUN PN0004 11.84  0.00  21.0   8.0  20.0 75.00 85.00  1.30  275.  20.0  0.76 0.960  38.0  1.65  30.0
+IB0035 ROBUT 33-1 v 5   PN0015 11.84  0.00  17.4   7.0  17.5 62.00 77.00  1.23  260.  16.0  0.84 0.500  29.0  1.65  15.0
+IB0036 CIANJUR #5 TAM   PN0007 11.84  0.00  17.4   7.0  17.5 62.00 77.00  1.23  250.  16.0  0.84 0.360  29.0  1.65  15.0
+IB0037 RANGKASBITUNG 5  PN0007 11.84  0.00  17.4   7.0  17.5 62.00 77.00  1.23  250.  16.0  0.84 0.360  29.0  1.65  15.0
+IB0038 PIDIE  #5 TAMN   PN0007 11.84  0.00  17.4   7.0  17.5 62.00 77.00  1.23  250.  16.0  0.84 0.360  29.0  1.65  15.0
+GH0001 CHINESE TMV2 TAM PN0017 11.84  0.00  17.0   7.0  17.5 53.00 70.00  1.24  275.  20.0  0.78 0.360  29.0  1.65  14.0
+GA0001 Georgia Green    RUNNER 11.84  0.00  21.2   9.2  18.8 74.30 85.00  1.45  270.  18.0  0.95 0.690  42.0  1.65  28.0
+! next cultivar created 4/18/95 as a hypothetical perennial, A. glabrata , tried again 9/97, needs its own SPECIES
+IB0040 FLORIGRAZE PEREN PN0015 11.84  0.00  70.0   7.5  18.5 155.0 155.0  1.00  200.  18.0  0.01 0.150  36.0  1.65  30.0

@@ -1,0 +1,1078 @@
+ BANKHEAD LOCK AL                         1 505 33  87 TUSCALOOSA         
+ BIRMINGHAM WB AP AL                      1 831 33  86 JEFFERSON          
+ BRANTLEY AL                              11069 31  86 CRENSHAW           
+ FRISCO CITY AL                           13105 31  87 MONROE             
+ GREENSBORO AL                            13511 32  87 HALE               
+ HEFLIN AL                                13775 33  85 CLEBURNE           
+ HUNTSVILLE WSO AP AL                     14064 34  86 MADISON            
+ MOBILE WB AIRPORT AL                     15478 30  88 MOBILE             
+ MONTGOMERY WB AP AL                      15550 32  86 MONTGOMERY         
+ MUSCLE SHOALS CAA AL                     15749 34  87 COLBERT            
+ OPELIKA AL                               16129 32  85 LEE                
+ OZARK AL                                 16218 31  85 DALE               
+ ROBERTSDALE 7 E AL                       16988 30  87 BALDWIN            
+ VALLEY HEAD AL                           18469 34  85 DE KALB            
+ AGUILA AZ                                2  60 33 113 MARICOPA           
+ AJO AZ                                   2  80 32 112 PIMA               
+ BETATAKIN AZ                             2 750 36 110 NAVAJO             
+ BLACK RIVER PUMPS AZ                     2 808 33 109 GRAHAM             
+ BOWIE AZ                                 2 958 32 109 COCHISE            
+ CANELO RS AZ                             21231 31 110 SANTA CRUZ         
+ DOUGLAS B D AP AZ                        22664 31 109 COCHISE            
+ ELOY AZ                                  22807 32 111 PINAL              
+ HEBER AZ                                 23961 34 110 NAVAJO             
+ JACOB LAKE AZ                            24418 36 112 COCONINO           
+ KEAMS CANYON AZ                          24586 35 110 NAVAJO             
+ KLAGETOH 12 WNW AZ                       24686 35 109 APACHE             
+ KOFA MOUNTAINS AZ                        24702 33 113 YUMA               
+ LEES FERRY AZ                            24849 36 111 COCONINO           
+ LITCHFIELD PARK AZ                       24977 33 112 MARICOPA           
+ LUKACHUKAI AZ                            25129 36 109 APACHE             
+ MONTEZUMA CASTLE NM AZ                   25635 34 111 YAVAPAI            
+ ORACLE 4 SE AZ                           26119 32 110 PINAL              
+ PRESCOTT AZ                              26796 34 112 YAVAPAI            
+ SAINT JOHNS AZ                           27435 34 109 APACHE             
+ SAN CARLOS RESRVOIR AZ                   27480 33 110 GILA               
+ SASABE AZ                                27619 31 111 PIMA               
+ SELIGMAN AZ                              27716 35 112 YAVAPAI            
+ STEWART MTN AZ                           28214 33 111 MARICOPA           
+ TACNA 3 NE AZ                            28396 32 113 YUMA               
+ TOMBSTONE AZ                             28619 31 110 COCHISE            
+ TUCSON WBO AZ                            28820 32 110 PIMA               
+ TUMACACORI AZ                            28865 31 111 SANTA CRUZ         
+ TUWEEP AZ                                28895 36 113 MOHAVE             
+ WIKIEUP AZ                               29309 34 113 MOHAVE             
+ WUPATKI NATL MON AZ                      29542 35 111 COCONINO           
+ YUMA WB AP AZ                            29660 32 114 YUMA               
+ BENTON AR                                3 582 34  92 SALINE             
+ CLARKSVILLE AR                           31455 35  93 JOHNSON            
+ CORNING AR                               31632 36  90 CLAY               
+ DUMAS 1 AR                               32148 33  91 DESHA              
+ EUREKA SPRINGS AR                        32356 36  93 CARROLL            
+ FORDYCE AR                               32540 33  92 DALLAS             
+ FORT SMITH WB AP AR                      32574 35  94 SEBASTIAN          
+ HOPE AR                                  33428 33  93 HEMPSTEAD          
+ JONESBORO AR                             33734 35  90 CRAIGHEAD          
+ MAMMOTH SPRING AR                        34572 36  91 FULTON             
+ MORRILTON AR                             34938 35  92 CONWAY             
+ MOUNT IDA 1 AR                           34988 34  93 MONTGOMERY         
+ MOUNTAIN HMC OF ENG AR                   35038 36  92 BAXTER             
+ NEWPORT AR                               35186 35  91 JACKSON            
+ SILOAM SPRINGS AR                        36624 36  94 BENTON             
+ STUTTGART 9ESE AR                        36920 34  91 ARKANSAS           
+ ALTURAS CA                               4 161 41 120 MODOC              
+ ASH MOUNTAIN CA                          4 343 36 118 TULARE             
+ BAKER CA                                 4 436 35 116 SAN BERDINO        
+ BISHOP WBO CA                            4 822 37 118 INYO               
+ BLYTHE AP CA                             4 927 33 114 RIVERSIDE          
+ BOWMAN DAM CA                            41018 39 120 NEVADA             
+ BRIDGEPORT CA                            41072 38 119 MONO               
+ BUTTONWILLOW CA                          41244 35 119 KERN               
+ DAGGETT AP CA                            42257 34 116 SAN BERDINO        
+ DEATH VALLEY CA                          42319 36 116 INYO               
+ DENAIR CA                                42389 37 120 STANISLAUS         
+ EL CAPITAN DAM CA                        42709 32 116 SAN DIEGO          
+ EL CENTRO CA                             42713 32 115 IMPERIAL           
+ EUREKA WBO CA                            42910 40 124 HUMBOLDT           
+ FAIRMONT CA                              42941 34 118 LOS ANGELES        
+ FOREST GLEN CA                           43130 40 123 TRINITY            
+ FRESNO WB AP CA                          43257 36 119 FRESNO             
+ GLENNVILLE CA                            43463 35 118 KERN               
+ HAIWEE CA                                43710 36 117 INYO               
+ HAYFIELD RESERVOIR CA                    43855 33 115 RIVERSIDE          
+ LAVA BED NAT. MON. CA                    44838 41 121 SISKIYOU           
+ LOMPOC CA                                45064 34 120 SANTA BARBARA      
+ LOS ANGELES WB AP CA                     45114 33 118 LOS ANGELES        
+ MANZANITA LAKE CA                        45311 40 121 SHASTA             
+ MITCHELL CAVERNS CA                      45721 34 115 SAN BERDINO        
+ MOUNTAIN PASS CA                         45890 35 115 SAN BERDINO        
+ MOUNT SHASTA CA                          45983 41 122 SISKIYOU           
+ NEEDLES AP CA                            46118 34 114 SAN BERDINO        
+ ORICK PRAIRIE CR PK CA                   46498 41 124 HUMBOLDT           
+ ORLEANS CA                               46508 41 123 HUMBOLDT           
+ OROVILLE 1 WSW CA                        46521 39 121 BUTTE              
+ PASO ROBLES AP CA                        46742 35 120 SN LUIS OBPO       
+ PRIEST VALLEY CA                         47150 36 120 MONTEREY           
+ RANDSBURG CA                             47253 35 117 KERN               
+ SACRAMENTO WB AP CA                      47630 38 121 SACRAMENTO         
+ SAINT HELENA CA                          47643 38 122 NAPA               
+ SALINAS 3E CA                            47668 36 121 MONTEREY           
+ SAN DIEGO WB AP CA                       47740 32 117 SAN DIEGO          
+ SAN FRANCISCO WB AP CA                   47769 37 122 SAN MATEO          
+ SANTA BARBARA CA                         47902 34 119 SANTA BARBARA      
+ SHASTA DAM CA                            48135 40 122 SHASTA             
+ SUSANVILLE AP CA                         48702 40 120 LASSEN             
+ TERMO CA                                 48873 40 120 LASSEN             
+ THERMAL CAA AP CA                        48892 33 116 RIVERSIDE          
+ TIGER CREEK PH CA                        48928 38 120 AMADOR             
+ TRACY PUMPING PLANT CA                   49001 37 121 ALAMEDA            
+ TUSTIN IRVINE RANCH CA                   49087 33 117 ORANGE             
+ VICTORVILLE CA                           49325 34 117 SAN BERDINO        
+ WILLITS 1NE CA                           49684 39 123 MENDOCINO          
+ WILLOWS CA                               49699 39 122 GLENN              
+ YOSEMITE NP CA                           49855 37 119 MARIPOSA           
+ YREKA CA                                 49866 41 122 SISKIYOU           
+ AKRON CAA AP CO                          5 114 40 103 WASHINGTON         
+ ALAMOSA WB AP CO                         5 130 37 105 ALAMOSA            
+ CANON CITY CO                            51294 38 105 FREMONT            
+ DEL NORTE CO                             52184 37 106 RIO GRANDE         
+ EAGLE CAA CO                             52454 39 106 EAGLE              
+ FORT COLLINS CO                          53005 40 105 LARIMER            
+ GRAND JUNCTION WBAP CO                   53488 39 108 MESA               
+ GRAND LAKE CO                            53496 40 105 GRAND              
+ GRANT CO                                 53530 39 105 PARK               
+ GREELEY UNC CO                           53553 40 104 WELD               
+ GUNNISON CO                              53662 38 106 GUNNISON           
+ HAYDEN CO                                53867 40 107 ROUTT              
+ HERMIT 9SE CO                            53951 37 107 MINERAL            
+ HOLLY CO                                 54076 38 102 PROWERS            
+ HOLYOKE CO                               54082 40 102 PHILLIPS           
+ LA JUNTA CAA AP CO                       54720 38 103 OTERO              
+ LAS ANIMAS 1N CO                         54834 38 103 BENT               
+ LIMON CO                                 55017 39 103 LINCOLN            
+ MAYBELL CO                               55446 40 108 MOFFAT             
+ MESA VERDE NATL PRK CO                   55531 37 108 MONTEZUMA          
+ MONTROSE NO 2 CO                         55722 38 107 MONTROSE           
+ PARADOX 2SE CO                           56315 38 108 MONTROSE           
+ PARKER 9 E CO                            56326 39 104 ELBERT             
+ RIFLE CO                                 57031 39 107 GARFIELD           
+ SPRINGFIELD 7WSW CO                      57866 37 102 BACA               
+ STRATTON CO                              58008 39 102 KIT CARSON         
+ TACONY 10SE CO                           58157 38 104 PUEBLO             
+ TIMPAS 13SW CO                           58290 37 103 OTERO              
+ WALDEN CO                                58756 40 106 JACKSON            
+ WALSENBURG CO                            58781 37 104 HUERFANO           
+ DANBURY CT                               61762 41  73 FAIRFIELD          
+ MIDDLETOWN 4 W CT                        64767 41  72 MIDDLESEX          
+ GEORGETOWN 5 SW DE                       73570 38  75 SUSSEX             
+ MIDDLETOWN 2 S DE                        75852 39  75 NEW CASTLE         
+ APALACHICOLA WB CTY FL                   8 211 29  84 FRANKLIN           
+ AVON PARK FL                             8 369 27  81 HIGHLANDS          
+ BELLE GLADE EXP STA FL                   8 611 26  80 PALM BEACH         
+ BRADENTON FL                             8 940 27  82 MANATEE            
+ CHIPLEY 3 E FL                           81544 30  85 WASHINGTON         
+ CLERMONT 6 SSW FL                        81641 28  81 LAKE               
+ CRESTVIEW FAA AP FL                      81986 30  86 OKALOOSA           
+ CROSS CITY 2 FL                          82008 29  83 DIXIE              
+ EVERGLADES FL                            82850 25  81 COLLIER            
+ FORT DRUM FL                             83137 27  80 OKEECHOBEE         
+ FORT MYERS WB AP FL                      83186 26  81 LEE                
+ HOMESTEAD EXP STA FL                     84091 25  80 DADE               
+ JACKSONVILLE WB AP FL                    84358 30  81 DUVAL              
+ KEY WEST WB AIRPORT FL                   84570 24  81 MONROE             
+ LIVE OAK 2 ESE FL                        85099 30  82 SUWANNE            
+ MILTON EXP STATION FL                    85793 30  87 SANTA ROSA         
+ MONTICELLO 2 S FL                        85879 30  83 JEFFERSON          
+ PALATKA FL                               86753 29  81 PUTNAM             
+ TALLAHASSEE WB AP FL                     88758 30  84 LEON               
+ TITUSVILLE 2 W FL                        88942 28  80 BREVARD            
+ VERO BEACH, FAA AP. FL                   89214 27  80 INDIAN RIVER       
+ WEEKI WACHEE FL                          89430 28  82 HERNANDO           
+ ALMA CAA AIRPORT GA                      9 211 31  82 BACON              
+ APPLING 2NW GA                           9 311 33  82 COLUMBIA           
+ ATLANTA WB AIRPORT GA                    9 451 33  84 FULTON             
+ BROOKLET 1 W GA                          91266 32  81 BULLOCH            
+ BRUNSWICK GA                             91340 31  81 GLYNN              
+ CORNELIA GA                              92283 34  83 HABERSHAM          
+ DUBLIN GA                                92839 32  82 LAURENS            
+ JASPER GA                                94648 34  84 PICKENS            
+ LAFAYETTE GA                             94941 34  85 WALKER             
+ MACON WB AIRPORT GA                      95443 32  83 BIBB               
+ MORGAN 1W GA                             96038 31  84 CALHOUN            
+ SILOAM GA                                98064 33  83 GREENE             
+ TALBOTTON GA                             98535 32  84 TALBOT             
+ TIFTON 2 N GA                            98703 31  83 TIFT               
+ ARBON 2NW ID                            10 347 42 112 POWER              
+ ARROWROCK DAM ID                        10 448 43 115 ELMORE             
+ BRUNEAU ID                              101195 42 115 OWYHEE             
+ BURLEY CAA AP ID                        101303 42 113 CASSIA             
+ CAMBRIDGE ID                            101408 44 116 WASHINGTON         
+ COBALT ID                               101932 45 114 LEMHI              
+ CRATERS OF MOON NM ID                   102260 43 113 BUTTE              
+ DEADWOOD DAM ID                         102385 44 115 VALLEY             
+ DEER FLAT DAM ID                        102444 43 116 CANYON             
+ DUBOIS EXP STA ID                       102707 44 112 CLARK              
+ FAIRFIELD  R S ID                       103108 43 114 CAMAS              
+ FENN RS ID                              103143 46 115 IDAHO              
+ IDAHO FALLS CAA AP ID                   104457 43 112 BONNEVILLE         
+ ISLAND PARK DAM ID                      104598 44 111 FREMONT            
+ MAY RS ID                               105685 44 113 LEMHI              
+ MONTPELIER R S ID                       106053 42 111 BEAR LAKE          
+ MOSCOW U OF I ID                        106152 46 117 LETAH              
+ OROFINO ID                              106681 46 116 CLEARWATER         
+ PALISADES DAM ID                        106764 43 111 BONNEVILLE         
+ RIGGINS RS ID                           107706 45 116 IDAHO              
+ SAINT MARIES ID                         108062 47 116 BENEWAH            
+ SALMON 1N ID                            108080 45 113 LEMHI              
+ SANDPOINT EXP STA ID                    108137 48 116 BONNER             
+ STANLEY ID                              108676 44 114 CUSTER             
+ TWIN FALLS WS0 ID                       109303 42 114 TWIN FALLS         
+ WALLACE WDLND PK ID                     109498 47 115 SHOSHONE           
+ WARREN ID                               109560 45 115 IDAHO              
+ AURORA COLLEGE  IL                      11 338 41  88 LAKE               
+ CARBONDALE AIRPORT IL                   111265 37  89 JACKSON            
+ CHICAGO WB AIRPORT IL                   111577 41  87 COOK               
+ DIXON IL                                112348 41  89 LEE                
+ ELGIN IL                                112736 42  88 KANE               
+ FAIRFIELD IL                            112931 38  88 WAYNE              
+ FARMER CITY IL                          112993 40  88 DE WITT            
+ GALESBURG IL                            113320 40  90 KNOX               
+ GRIGGSVILLE IL                          113717 39  90 PIKE               
+ HARRISBURG IL                           113879 37  88 SALINE             
+ HOOPESTON IL                            114198 40  87 VERMILION          
+ LA HARPE 1 SW IL                        114823 40  90 HANCOCK            
+ MOLINE WB AIRPORT IL                    115751 41  90 ROCK               
+ PANA IL                                 116579 39  89 CHRISTIAN          
+ PARIS WATERWORKS IL                     116610 39  87 EDGAR              
+ PEORIA WB AIRPORT IL                    116711 40  89 PEORIA             
+ PERU 2W IL                              116753 41  89 LA SALLE           
+ ROCKFORD CAA AP IL                      117382 42  89 WINNEBAGO          
+ SPARTA IL                               118147 38  89 RANDOLPH           
+ WALNUT IL                               118916 41  89 BUREAU             
+ WINDSOR IL                              119354 39  88 SHELBY             
+ DELPHI IN                               122149 40  86 CARROLL            
+ FT WAYNE WB BAER AP IN                  123037 41  85 ALLEN              
+ GREENSBURG IN                           123547 39  85 DECATUR            
+ HARTFORD CITY IN                        123777 40  85 GRANT              
+ HOBART 1 NE IN                          124008 41  87 LAKE               
+ INDIANAPOLIS WB AP IN                   124259 39  86 MARION             
+ PLYMOUTH PWR SUB ST IN                  127028 41  86 MARSHALL           
+ SALEM IN                                127755 38  86 WASHINGTON         
+ TERRE HAUTE 8 S IN                      128723 39  87 VIGO               
+ WASHINGTON IN                           129253 38  87 DAVIESS            
+ WATERLOO IN                             129271 41  85 DE KALB            
+ WEST LAFAYETTE 6 NW IN                  129430 40  87 TIPPECANOE         
+ CASTANA 4E IA                           131277 42  95 MONONA             
+ CLARINDA IA                             131533 40  95 PAGE               
+ DECORAH DRY RUN IA                      132110 43  91 WINNESHIEK         
+ DES MOINES WB AP IA                     132203 41  93 POLK               
+ DUBUQUE WB AIRPORT IA                   132367 42  90 DUBUQUE            
+ FOREST CITY IA                          132977 43  93 WINNEBAGO          
+ FORT DODGE IA                           132999 42  94 WEBSTER            
+ GRINNELL IA                             133473 41  92 POWERSHIEK         
+ GRUNDY CENTER 5NE IA                    133487 42  92 GRUNDY             
+ GUTHRIE CENTER IA                       133509 41  94 GUTHRIE            
+ IOWA CITY IA                            134101 41  91 JOHNSON            
+ IOWA FALLS 1N IA                        134142 42  93 HARDIN             
+ OAKLAND 2 E IA                          136151 41  95 POTTAWATTAMI       
+ OELWEIN IA                              136200 42  91 FAYETTE            
+ OSAGE IA                                136305 43  92 FAYETTE            
+ ROCK RAPIDS IA                          137147 43  96 LYON               
+ SIBLEY IA                               137664 43  95 OSCEOLA            
+ STORM LAKE 2 E IA                       137979 42  95 BUENA VISTA        
+ SWEA CITY 5NW IA                        138026 43  94 KOSSUTH            
+ ALTON 6 E KS                            14 201 39  98 OSBORNE            
+ CEDAR BLUFF DAM KS                      141383 38  99 TREGO              
+ CENTRALIA KS                            141408 39  96 NEMAHA             
+ CHANUTE CAA AP KS                       141427 37  95 NEOSHO             
+ COLDWATER KS                            141704 37  99 COMANCHE           
+ CONCORDIA WSO AP KS                     141767 39  97 CLOUD              
+ COTTONWOOD FALLS KS                     141858 38  96 CHASE              
+ EUREKA KS                               142622 37  96 GREENWOOD          
+ GREAT BEND KS                           143218 38  98 BARTOR             
+ HAYS 1 S KS                             143527 38  99 ELLIS              
+ HILL CITY CAA AP KS                     143660 39  99 GRAHAM             
+ HOWARD KS                               143822 37  96 ELK                
+ LAKIN KS                                144464 37 101 KEARNY             
+ LEOTI KS                                144665 38 101 WICHITA            
+ MC DONALD KS                            145127 39 101 RAWLINS            
+ OBERLIN KS                              145906 39 100 DECATUR            
+ OTTAWA KS                               146128 38  95 FRANKLIN           
+ PRATT KS                                146549 37  98 PRATT              
+ SALINA CAA AP KS                        147160 38  97 SALINE             
+ SCOTT CITY KS                           147271 38 100 SCOTT              
+ SUBLETTE KS                             147922 37 100 HASKELL            
+ TRIBUNE 1W KS                           148235 38 101 GREELEY            
+ TROY KS                                 148250 39  95 DONIPHAN           
+ WICHITA WB AIRPORT KS                   148830 37  97 SEDGWICK           
+ YATES CENTER KS                         149080 37  95 WOODSON            
+ CAMPBELLSVILLE KY                       151256 37  85 TAYLOR             
+ CARROLLTON LOCK 1 KY                    151345 38  85 CARROLL            
+ HEIDELBERG LOCK 14 KY                   153741 37  83 LEE                
+ HOPKINSVILLE 2 E KY                     153994 36  87 CHRISTIAN          
+ LEITCHFIELD KY                          154703 37  86 GRAYSON            
+ MADISONVILLE KY                         155067 37  87 HOPKINS            
+ MIDDLESBORO KY                          155389 36  83 BELL               
+ MURRAY KY                               155694 36  88 CALLOWAY           
+ SCOTTSVILLE KY                          157215 36  86 ALLEN              
+ TOMHAWK WSW KY                          158055 37  82 MARTIN             
+ VANCEBURG DAM 32 KY                     158259 38  83 LEWIS              
+ WAYNESBURG 6 E KY                       158486 37  84 LINCOLN            
+ WILLIAMSTOWN KY                         158714 38  84 GRANT              
+ BELAH FIRE TOWER LA                     16 639 31  92 LA SALLE           
+ BOOTHVILLE WSMO CI LA                   161157 29  89 PLAQUEMINES        
+ DE RIDDER LA                            162367 30  93 BEAUREGARD         
+ HACKBERRY 8 SSW LA                      163979 29  93 CAMERON            
+ HAMMOND 3 NW LA                         164034 30  90 TANGIPOA           
+ HOUMA 1 LA                              164407 29  90 TERREBONNE         
+ LAKE CHARLES WSO AP                     165078 30  93 CALCASIEU          
+ MELVILLE LA                             166117 30  91 ST LANDRY          
+ MORGAN CITY LA                          166394 29  91 ST MARY            
+ NATCHITOCHES LA                         166582 31  93 ST MARY            
+ OBERLIN FIRE TOWER LA                   166938 30  92 ALLEN              
+ RUSTON L P I LA                         168067 32  92 LINCOLN            
+ SHREVEPORT WB AP LA                     168440 32  93 CADDO              
+ TALLULAH LA                             168923 32  91 MADISON            
+ VERMILION LOCK LA                       169319 29  92 VERMILION          
+ AUGUSTA CAA AIRPORT ME                  17 275 44  69 KENNEBEC           
+ BANGOR DOW FIELD ME                     17 355 44  68 PENOBSCOT          
+ CARIBOU WB AIRPORT ME                   171175 46  68 AROOSTOOK          
+ CLAYTON LAKE2 ME                        171479 46  69 AROOSTOOK          
+ FORT KENT ME                            172878 47  68 AROOSTOOK          
+ JONESBORO ME                            174183 44  67 WASHINGTON         
+ LONG FALLS DAM ME                       174781 45  70 SOMERSET           
+ MILLINOCKET ME                          175304 45  68 PENOBSCOT          
+ PORTLAND WB AIRPORT ME                  176905 43  70 CUMBERLAND         
+ PRESQUE ISLE ME                         176937 46  68 AROOSTOOK          
+ RIPOGENUS DAM ME                        177174 45  69 SCATAQUIS          
+ RUMFORD 3 SW ME                         177325 44  70 OXFORD             
+ SQUA PAN DAM ME                         178398 46  68 AROOSTOOK          
+ BALTIMORE WB AP MD                      18 465 39  76 ANNE ARUNDEL       
+ FREDERICK POLICE BK MD                  183348 39  77 FREDERICK          
+ HAGERSTOWN MD                           183975 39  77 WASHINGTON         
+ OAKLAND 1SW MD                          186620 39  79 GARRETT            
+ OWINGS FERRY LAND MD                    186770 38  76 CALBERT            
+ AMHERST MA                              19 120 42  72 HAMPSHIRE          
+ CLINTON MA                              191561 42  71 WORCESTER          
+ EAST WAREHAM MA                         192451 41  70 PLYMOUTH           
+ ROCKPORT 1 ESE MA                       196977 42  70 ESSEX              
+ STOCKBRIDGE MA                          198181 42  73 WORCESTER          
+ WORCESTER CAA AP MA                     199923 42  71 WORCESTER          
+ ALBERTA FORD FRCNTR MI                  20  89 46  88 BARAGA             
+ ALMA MI                                 20 146 43  84 GRATIOT            
+ ALPENA STATE FOREST MI                  20 164 45  83 ALPENA             
+ ANN ARBOR U OF MICH MI                  20 230 42  83 WASHTENAW          
+ BIG RAPIDS WATERWRK MI                  20 779 43  85 MECOSTA            
+ CARO MI                                 201299 43  83 TUSCOLA            
+ CHATHAM EXP FARM MI                     201484 46  86 ALGER              
+ CHEBOYGAN MI                            201492 45  84 CHEBOYGAN          
+ FAYETTE SACK BAY MI                     202737 45  86 DELTA              
+ FIFE LAKE ST FOREST MI                  202784 44  85 GR TRAVERSE        
+ GULL LAKE EXP FARM MI                   203504 42  85 KALAMAZOO          
+ HALE FIVE CHNNLS DM MI                  203529 44  83 IOSCO              
+ HESPERIA MI                             203769 43  86 OCEANA             
+ HOUGHTON FAA AP MI                      203908 47  88 HOUGHTON           
+ HOUGHTON LK ST FOR MI                   203932 44  84 HOUGHTON           
+ IRONWOOD POWER CO MI                    204104 46  90 GOGEBIC            
+ ISHPEMING MI                            204127 46  87 MARQUETTE          
+ JACKSON CAA AP MI                       204150 42  84 JACKSON            
+ MANISTEE POWER CO MI                    205065 44  86 MANISTEE           
+ NEWBERRY STATE HOSP MI                  205816 46  85 LUCE               
+ ST JAMES BEAVER IS MI                   207277 45  85 CHARLEVOIX         
+ SANDUSKY MI                             207350 43  82 SANILAC            
+ SAULT ST MAR WBAP MI                    207366 46  84 CHIPPEWA           
+ SOUTH HAVEN EX FARM MI                  207690 42  86 VAN BUREN          
+ STEPHENSON 5 W MI                       207867 45  87 MENOMINEE          
+ WATERSMEET US FRST MI                   208680 46  89 GOGEBIC            
+ ARGYLE MN                               21 252 48  96 MARSHALL           
+ ARTICHOKE LAKE MN                       21 287 45  96 BIG STONE          
+ BABBITT 2 SE MN                         21 390 47  91 ST LOUIS           
+ BAUDETTE 21SSE MN                       21 520 48  94 LK OF WOODS        
+ CAMBRIDGE EPLTC COL MN                  211227 45  93 ISANTI             
+ CANBY MN                                211263 44  96 YELLOW MED         
+ CASS LAKE FOR  STA MN                   211374 47  94 CASS               
+ COOK 18W MN                             211776 47  93 ST LOUIS           
+ FOSSTON PWR PLNT MN                     212916 47  95 POLK               
+ GLENWOOD MN                             213174 45  95 POLK               
+ GRAND MARAIS CST GD MN                  213282 47  90 COOK               
+ GUNFLINT LODGE MN                       213417 48  90 COOK               
+ HIBBING FAA AP MN                       213730 47  92 ST LOUIS           
+ INT FALLS WP AP MN                      214026 48  93 KOOCHICHING        
+ ISLE 8N MN                              214103 46  93 AITKIN             
+ MINN-ST PAUL WBAP MN                    215435 44  93 HENNEPIN           
+ MOOSE LAKE 1 SE MN                      215598 46  92 CARLTON            
+ MORRIS WC SCHOOL MN                     215638 45  95 STEVENS            
+ NORTH MANKATO MN                        216007 44  94 NICOLLET           
+ PARK RAPIDS MN                          216360 46  95 HUBBARD            
+ PINE RVR DAM CRS LK MN                  216547 46  94 CROW WING          
+ POKEGAMA DAM MN                         216612 47  93 ITASCA             
+ RED LAKE FALLS MN                       216787 47  96 RED LAKE           
+ ROSEMOUNT AG EX STA MN                  217107 44  93 DAKOTA             
+ ROTHSAY MN                              217149 46  96 WILKIN             
+ ST CLOUD WB AP MN                       217294 45  94 SHERBURNE          
+ SANDY LK DM LIBBY MN                    217460 46  93 AITKIN             
+ STEWART MN                              218025 44  94 SIBLEY             
+ TRACY POWER PLANT MN                    218323 44  95 LYON               
+ WADENA MN                               218579 46  95 WADENA             
+ WANNASKA 8SE MN                         218656 48  95 ROSEAU             
+ WILLMAR STATE HOSP MN                   219004 45  95 KANDIYOHI          
+ WINNEBAGO MN                            219046 43  94 FARIBAULT          
+ ZUMBROTA MN                             219249 44  92 GOODHUE            
+ BOONEVILLE MS                           22 955 34  88 PRENTISS           
+ BROOKHAVEN MS                           221094 31  90 LINCOLN            
+ CANTON MS                               221389 32  90 MADISON            
+ COLLINS MS                              221852 31  89 COVINGTON          
+ FOREST POST OFFICE MS                   223107 32  89 SCOTT              
+ HOLLY SPRINGS EX ST MS                  224173 34  89 MARSHALL           
+ MEREDIAN WSO AP MS                      225776 32  88 LAUDERDALE         
+ MOORHEAD MS                             226009 33  90 SUNFLOWER          
+ NATCHEZ MS                              226177 31  91 ADAMS              
+ PASCAGOULA JR HIGH MS                   226718 30  88 JACKSON            
+ PORT GIBSON MS                          227132 31  90 CLAIBORNE          
+ RUSSELL 2 WNW MS                        227701 32  88 LAUDERDALE         
+ SAUCIER EXP FOREST MS                   227840 30  89 HARRISON           
+ STATE COLLEGE MS                        228374 33  88 HANCOCK            
+ TUNICA MS                               228998 34  90 TUNICA             
+ UNIVERSITY MS                           229079 34  89 LAFAYETTE          
+ VICKSBURG WB CITY MS                    229220 32  90 WARREN             
+ WAYNESBORO 1 E MS                       229439 31  88 WAYNE              
+ WINONA 3 ENE MS                         229743 33  89 MONTGOMERY         
+ ANDERSON 1 SW MO                        23 164 36  94 MCDONALD           
+ ARCADIA MO                              23 224 37  90 IRON               
+ BETHANY MO                              23 608 40  94 HARRISON           
+ CANTON L AND D 20 MO                    231275 40  91 LEWIS              
+ CARROLLTON MO                           231340 39  93 CARROLL            
+ DONIPHAN MO                             232289 36  90 RIPLY              
+ EDGERTON MO                             232474 39  94 PLATTE             
+ GRANT CITY MO                           233369 40  94 WORTH              
+ HARRISONVILLE MO                        233649 38  94 CASS               
+ JACKSON MO                              234226 37  89 C GIRARDEAU        
+ JEFF CITY RADIO KWS MO                  234271 38  92 COLE               
+ KIRKSVILLE MO                           234544 40  92 ADAIR              
+ LAMAR MO                                234705 37  94 BARTON             
+ LEBANON MO                              234825 37  92 LACLEDE            
+ MOBERLY AP MO                           235671 39  92 RANDOLPH           
+ PRINCETON MO                            236866 40  93 MERCER             
+ SAINT JOSEPH WB AP MO                   237440 39  94 BUCHANAN           
+ SAINT LOUIS WB AP MO                    237455 38  90 ST LOUIS           
+ SALEM MO                                237506 37  91 DENT               
+ SPRINGFIELD WB AP MO                    237976 37  93 GREENE             
+ TARKIO CAA AP MO                        238289 40  95 ATCHISON           
+ UNION 2 SE MO                           238515 38  91 FRANKLIN           
+ VANDALIA MO                             238577 39  91 AUDRAIN            
+ WARSAW NO 1 MO                          238733 38  93 BENTON             
+ AUSTIN 1 W MT                           24 375 46 112 LEWIS-CLARK        
+ BABB 6 NE MT                            24 392 48 113 GLACIER            
+ BILLINGS WB AP MT                       24 807 45 108 YELLOWSTONE        
+ BRANDERBERG MT                          241084 45 106 ROSEBUD            
+ BROADUS MT                              241127 45 105 POWDER RIVER       
+ CARLYLE 12NW MT                         241518 46 104 WIBAUX             
+ CIRCLE MT                               241758 47 105 MCCONE             
+ CONRAD MT                               241974 48 111 PONDERA            
+ CONTENT MT                              241984 48 107 PHILLIPS           
+ CUT BANK CAA AP MT                      242173 48 112 GLACIER            
+ DEER LODGE 3W MT                        242275 46 112 POWELL             
+ DIVIDE 2 NW MT                          242421 45 112 SILVER BOW         
+ DRUMMOND AVIATION MT                    242500 46 113 GRANITE            
+ EKALAKA MT                              242689 45 104 CARTER             
+ FLATWILLOW 4 ENE MT                     243013 46 108 PETROLEUM          
+ FORKS 5 NE MT                           243089 48 107 PHILLIPS           
+ GERALDINE MT                            243445 47 110 CHOUTEAU           
+ GIBSON DAM MT                           243489 47 112 LEWIS-CLARK        
+ GLASGOW WSO AP MT                       243558 48 106 VALLEY             
+ GLENDIVE MT                             243581 47 104 DAWSON             
+ GREAT FALLS WB AP MT                    243751 47 111 CASCADE            
+ HARLEM MT                               243929 48 108 BLAINE             
+ HAVRE WSO AP MT                         243996 48 109 HILL               
+ HELENA WSO AP MT                        244055 46 112 LEWIS-CLARK        
+ HYSHAM MT                               244358 46 107 TREASURE           
+ ILIAD MT                                244368 47 109 CHOUTEAU           
+ INGOMAR 11 NE MT                        244386 46 107 ROSEBUD            
+ JOPLIN 6 N MT                           244512 48 110 LIBERTY            
+ KALISPELL WB AP MT                      244558 48 114 FLATHEAD           
+ LAKEVIEW MT                             244820 44 111 BEAVERHEAD         
+ LIBBY 1 NE RS MT                        245015 48 115 LINCOLN            
+ LIMA MT                                 245030 44 112 BEAVERHEAD         
+ LIVINGSTON CAA AP MT                    245086 45 110 PARK               
+ MEDICINE LAKE 3 SE MT                   245572 48 104 SHERIDAN           
+ MILES CITY CAA AP MT                    245690 46 105 CUSTER             
+ MOSBY 18N MT                            245873 47 107 GARFIELD           
+ MYSTIC LAKE MT                          245961 45 109 STILLWATER         
+ NORRIS MADISON PH MT                    246157 45 111 MADISON            
+ ROCK SPRINGS MT                         247136 46 106 ROSEBUD            
+ ROY 8 NE MT                             247228 47 108 FERGUS             
+ RYEGATE 18NNE MT                        247263 46 109 GOLDEN VLY         
+ SAINT IGNATIUS MT                       247286 47 114 LAKE               
+ SAVAGE MT                               247382 47 104 RICHLAND           
+ SEELEY LAKE RS MT                       247448 47 113 MISSOULA           
+ STEVENSVILLE MT                         247894 46 114 RAVALLI            
+ TOWNSEND MT                             248324 46 111 BROADWATER         
+ TROUT CREEK RS MT                       248380 47 115 SANDERS            
+ UTICA 11WSW MT                          248495 46 110 JUDUTH BASIN       
+ WISDOM MT                               249067 45 113 BEAVERHEAD         
+ WOLF POINT MT                           249103 48 105 ROOSEVELT          
+ YELLOWTAIL DAM MT                       249240 45 107 BIG HORN           
+ BROKEN BOW NO 1 NE                      251200 41  99 CUSTER             
+ COLUMBUS NE                             251825 41  97 PLATT              
+ CRESCENT LK GAME RF NE                  252000 41 102 GARDEN             
+ CURTIS NE                               252100 40 100 FRONTIER           
+ FORT ROBINSON NE                        253015 42 103 DAWES              
+ FREMONT NE                              253050 41  96 DODGE              
+ GENEVA NE                               253175 40  97 FILLMORE           
+ GRAND ISLAND WB AP NE                   253395 40  98 HALL               
+ HAY SPRINGS 12 S NE                     253715 42 102 SHERIDAN           
+ HOLDREGE NE                             253910 40  99 PHELPS             
+ IMPERIAL NE                             254110 40 101 CHASE              
+ KINGSLEY DAM NE                         254455 41 101 KEITH              
+ MULLEN 21NW NE                          255702 42 101 CHERRY             
+ NEWPORT NE                              255925 42  99 ROCK               
+ NORTH LOUP NE                           256040 41  98 VALLEY             
+ O NEILL NE                              256290 42  98 HOLT               
+ OSMOND NE                               256395 42  97 PIERCE             
+ SCOTTSBLUFF CAA AP NE                   257665 41 103 SCOTTS BLUFF       
+ STAPLETON NE                            258130 41 100 LOGAN              
+ SYRACUSE NE                             258395 40  96 OTOE               
+ VALENTINE LKS GAME NE                   258755 42 100 CHERRY             
+ WAHOO NE                                258905 41  96 SAUNDERS           
+ WALTHILL NE                             258935 42  96 THURSTON           
+ AUSTIN NV                               26 507 39 117 LANDER             
+ BATTLE MTN AP NV                        26 691 40 116 LANDER             
+ BLUE JAY HWY STA NV                     26 961 38 116 NYE                
+ CALIENTE NV                             261358 37 114 LINCOLN            
+ CARSON CITY NV                          261485 39 119 CARSON CITY        
+ CONTACT NV                              261905 41 114 ELKO               
+ DEETH NV                                262189 41 115 ELKO               
+ DUFFRRENA NV                            262394 41 119 HUMBOLDT           
+ ELKO WBO NV                             262573 40 115 ELKO               
+ ELY WBO NV                              262631 39 114 WHITE PINE         
+ EUREKA NV                               262708 39 115 EUREKA             
+ FALLON EXP STA NV                       262780 39 118 CHURCHILL          
+ HAWTHORNE BABBITT NV                    263515 38 118 MINERAL            
+ KEY PITTMAN WMA NV                      264143 37 115 LINCOLN            
+ LAS VEGAS WB AP NV                      264436 36 115 CLARK              
+ LEHMAN CAVES NT MON NV                  264514 39 114 WHITE PINE         
+ LEANORD CREEK RCH NV                    264527 41 118 HUMBOLDT           
+ LOGANDALE UNEXP FM NV                   264651 36 114 CLARK              
+ LOVELOCK FAA AP NV                      264700 40 118 PERSHING           
+ LUND NV                                 264745 38 115 WHITE PINE         
+ MCDERMITT NV                            264935 42 117 HUMBOLDT           
+ PAHRANAGAT WLD REF NV                   265880 37 115 LINCOLN            
+ PEQUOP NV                               266148 41 114 ELKO               
+ PIOCHE NV                               266252 37 114 LINCOLN            
+ RENO WSFO AP NV                         266779 39 119 WASHOE             
+ RUBY LAKE NV                            267123 40 115 ELKO               
+ RYE PATCH DAM NV                        267192 40 118 PERSHING           
+ SEARCHLIGHT NV                          267369 35 114 CLARK              
+ SILVERPEAK NV                           267463 37 117 ESMERALDA          
+ SMOKEY VALLEY NV                        267620 38 117 NYE                
+ SNOWBALL RANCH NV                       267640 39 116 NYE                
+ SUTCLIFF-WARRIOR PT NV                  267953 40 119 WASHOE             
+ TONOPAH AP NV                           268170 38 117 NYE                
+ TUSCARORA NV                            268346 41 116 ELKO               
+ WINNEMUCCA WBO NV                       269171 40 117 HUMBOLDT           
+ CONCORD WB AIRPORT NH                   271683 43  71 MERRIMACK          
+ FIRST CONN LAKE NH                      272999 45  71 COOS               
+ LANCASTER NH                            274556 44  71 COOS               
+ MOUNT WASHINGTON WB NH                  275639 44  71 COOS               
+ PLYMOUTH 2 E NH                         276945 43  71 GRAFTON            
+ ESSEX FELLS SEW PLT NJ                  282768 40  74 ESSEX              
+ FREEHOLD NJ                             283181 40  74 MONMOUTH           
+ HIGH POINT PARK NJ                      283935 41  74 SUSSEX             
+ INDIAN MILLS 2 W NJ                     284229 39  74 BURLINGTON         
+ NEWARK WSO AP NJ                        286026 40  74 ESSEX              
+ SOMERVILLE NJ                           288194 40  74 SOMERSET           
+ TUCKERTON 1 S NJ                        288899 39  74 OCEAN              
+ WOODSTOWN 2 NW NJ                       289910 39  75 SALEM              
+ ALAMOGORDO NM                           29 199 32 105 OTERO              
+ ANIMAS NM                               29 417 31 108 HIDALGO            
+ AUGUSTINE NM                            29 640 34 107 SOCORRO            
+ BEAVERHEAD RS NM                        29 818 33 108 CATRON             
+ BELL RANCH NM                           29 858 35 104 SAN MIGUEL         
+ BITTER LAKES WL REF NM                  29 992 33 104 CHAVES             
+ BOSQUE DEL APACHE NM                    291138 33 106 SOCORRO            
+ CARLSBAD CAA AP NM                      291475 32 104 EDDY               
+ CARRIZOZO NM                            291515 33 105 LINCOLN            
+ CLAYTON WB AP NM                        291887 36 103 UNION              
+ CROSSROADS 1 NNE NM                     292207 33 103 LEA                
+ EL VADO DAM NM                          292837 36 106 RIO ARRIBA         
+ ELEPHANT BUTTE DAM NM                   292848 33 107 SIERRA             
+ FLORIDA NM                              293225 32 107 LUNA               
+ FORT SUMNER NM                          293294 34 104 DE BACA            
+ FRUITLAND NM                            293340 36 108 SAN JUAN           
+ HICKMAN NM                              293969 34 108 CATRON             
+ HOPE NM                                 294112 32 104 EDDY               
+ JEMEZ SPRINGS NM                        294369 35 106 SANDOVAL           
+ JORNADA EXP RANGE NM                    294426 32 106 DONA ANA           
+ LAS VEGAS CAA AP NM                     294856 35 105 SAN MIGUEL         
+ LORDSBURG NM                            295079 32 108 HIDALGO            
+ LYBROOK NM                              295290 36 107 RIO ARRIBO         
+ MC GAFFEY NM                            295560 35 108 QUAY               
+ MELROSE NM                              295617 34 103 CURRY              
+ MOUNTAINAIR NM                          295965 34 106 TORRANCE           
+ PEARL NM                                296659 32 103 LEA                
+ PEDERNAL NM                             296687 34 105 TORRANCE           
+ QUEMADO NM                              297180 34 108 CATRON             
+ SANDIA PARK NM                          298015 35 106 BERNALILLO         
+ SPRINGER NM                             298501 36 104 COLFAX             
+ TAOS NM                                 298668 36 105 TAOS               
+ TORREAON NAVAJO MIS NM                  299031 35 107 SANDOVAL           
+ TUCUMCARI 3 NE NM                       299156 35 103 QUAY               
+ ARCADE NY                               30 220 42  78 WYOMING            
+ 1AURORA RESEARCH FM NY                  30 331 42  76 CAYUGA             
+ BATH NY                                 30 448 42  77 STEUBEN            
+ BINHAMTON WB AP NY                      30 687 42  76 BROOME             
+ BRIDGEHAMPTON NY                        30 889 40  72 ONANDAGA           
+ CANTON WB CITY NY                       301185 44  75 STEUBEN            
+ COOPERSTOWN NY                          301752 42  74 OTGEGO             
+ GENEVA SCS NY                           303177 42  77 ONTARIO            
+ ITHACA CORNELL UNIV NY                  304174 42  76 TOMPKINS           
+ LIBERTY NY                              304731 41  74 SULLIVAN           
+ LOCKPORT 2 NE NY                        304844 43  78 NIAGARA            
+ MILLBROOK NY                            305334 41  73 DUTCHESS           
+ MINEOLA NY                              305377 40  73 NASSAU             
+ NORWICH NY                              306085 42  75 CHENANGO           
+ OLD FORGE THENDARA NY                   306184 43  75 HERKIMER           
+ OSWEGO WB CITY NY                       306314 43  76 OSWEGO             
+ PLATTSBURGH NY                          306659 44  73 CLINTON            
+ ROCHESTER WB AP NY                      307167 43  77 MONROE             
+ SYRACUSE WB AIRPORT NY                  308383 43  76 ONONDAGA           
+ TROY LOCK AND DAM NY                    308600 42  73 RENSSELAER         
+ TUPPER LK SUNMOUNT NY                   308631 44  74 FRANKLIN           
+ UTICA CAA AP NY                         308737 43  75 ONEIDA             
+ WESTFIELD NY                            309189 42  79 CHAUTAUQUA         
+ WHITEHALL NY                            309389 43  73 WASHINGTON         
+ ASHEVILLE WB CITY NC                    31 301 35  82 BUNCOMBE           
+ CAPE HATTERAS WB NC                     311458 35  75 DARE               
+ CLAYTON 3W NC                           311820 35  78 JOHNSTON           
+ CULLOWHEE NC                            312200 35  83 JACKSON            
+ ELIZABETH CITY NC                       312719 36  76 PASQUOTANK         
+ ELIZABETHTOWN LOCK2 NC                  312732 34  78 BLADEN             
+ GREENVILLE NC                           313638 35  77 PITT               
+ HATTERAS WB CITY NC                     313897 35  75 DARE               
+ HENDERSON 2 SW NC                       313969 36  78 VANCE              
+ HICKORY AIRWAYS NC                      314020 35  81 BURKE              
+ JACKSON NC                              314456 36  77 NORTHAMPTON        
+ LAURINBURG NC                           314860 34  79 SCOTLAND           
+ MOUNT AIRY NC                           315890 36  80 SURRY              
+ PLYMOUTH EXP STA NC                     316853 35  76 WASHINGTON         
+ RALEIGH WB CITY NC                      317079 35  78 WAKE               
+ REIDSVILLE 2NW NC                       317202 36  79 ROCKINGHAM         
+ SALISBURY NC                            317615 35  80 ROWAN              
+ SILER CITY NC                           317924 35  79 CHATHAM            
+ STATESVILLE 2 W NC                      318292 35  80 IREDELL            
+ TRANSOU NC                              318694 36  81 ASHE               
+ WILMINGTON CAA AP NC                    319457 34  77 NEW HANOVER        
+ WINSTON-SALEM WB AP NC                  319539 36  80 FORSYTH            
+ AMIDON ND                               32 209 46 103 SLOPE              
+ BISMARCK WB AIRPORT ND                  32 819 46 100 BURLEIGH           
+ CARSON 2 S W ND                         321370 46 101 GRANT              
+ DUNN CENTER ND                          322365 47 102 DUNN               
+ EDMORE 1 W ND                           322525 48  98 RAMSEY             
+ FESSENDEN ND                            322949 47  99 WELLS              
+ FOXHOLM WILDLIFE RF ND                  323217 48 101 WARD               
+ GRAFTON STATE SCH ND                    323594 48  97 WALSH              
+ GRENORA ND                              323736 48 103 WILLIAMS           
+ LA MOURE ND                             324937 46  98 LA MOURE           
+ LEEDS ND                                325078 48  99 BENSON             
+ MAYVILLE ND                             325660 47  97 TRAILL             
+ MC CLUSKY ND                            325710 47 100 SHERIDAN           
+ MC HENRY 5 N ND                         325730 47  98 EDDY               
+ MC LEOD 3 E ND                          325754 46  97 RICHLAND           
+ MOTT RR STATION ND                      326155 46 102 HETTINGER          
+ NAPOLEON 2 SE ND                        326255 46  99 LOGAN              
+ POWERS LAKE ND                          327281 48 102 BURKE              
+ UNDERWOOD ND                            328872 47 101 MC LEAN            
+ UPHAM WILDLIFE REF ND                   328913 48 100 MC HENRY           
+ WATFORD CITY 20 SE ND                   329246 47 103 MC KENZIE          
+ AKRON-CANTON WB AP OH                   33  58 40  81 SUMMIT             
+ CALDWELL 6 NW OH                        331178 39  81 NOBLE              
+ CELINA 3NE OH                           331390 40  84 MERCER             
+ CLEVELAND WB AP OH                      331657 41  81 CUYAHOGA           
+ DAYTON OH                               332067 39  84 MONTGOMERY         
+ DEFIANCE OH                             332098 41  84 DEFIANCE           
+ FREDERICKTOWN SW PL OH                  332956 40  82 KNOX               
+ KENTON 2 W OH                           334189 40  83 HARDIN             
+ NEW LEXINGTON 2 NW OH                   335857 39  82 PERRY              
+ NEW PHILADELPHIA OH                     335894 40  81 TUSCARAWAS         
+ SANDUSKY WB CITY OH                     337447 41  82 ERIE               
+ TOLEDO EXPRESS WSAP OH                  338357 41  83 LUCAS              
+ WASHINGTON COURT HS OH                  338794 39  83 FAYETTE            
+ ADA OK                                  34  17 34  96 PONTOTOC           
+ ALTUS OK                                34 179 34  99 JACKSON            
+ ARDMORE OK                              34 292 34  97 CARTER             
+ BEAVER OK                               34 593 36 100 BEAVER             
+ BOISE CITY OK                           34 908 36 102 CIMARRON           
+ CHEROKEE OK                             341724 36  98 ALFALFA            
+ FORT RENO OK                            342818 35  98 CANADIAN           
+ ELK CITY OK                             342849 35  99 BECKHAM            
+ FORT SUPPLY DAM OK                      343304 36  99 WOODWARD           
+ GOODWELL OK                             343628 36 101 TEXAS              
+ GUTHRIE OK                              343821 35  97 LOGAN              
+ IDABEL OK                               344451 33  94 MC CURTAIN         
+ LAWTON OK                               345063 34  98 COMANCHE           
+ MARLOW OK                               345581 34  97 STEPHENS           
+ MC ALESTER CAA AP OK                    345664 34  95 PITTSBURG          
+ MUSKOGEE OK                             346130 35  95 MUSKOGEE           
+ MUTUAL OK                               346139 36  99 WOODWARD           
+ NORMAN OK                               346386 35  97 CLEVELAND          
+ OKEMAH 1 OK                             346638 35  96 OKFUSKEE           
+ OKLA CITY WB AP OK                      346661 35  97 OKLAHOMA           
+ PAWHUSKA OK                             346935 36  96 OSAGE              
+ PONCA CITY CAA AP OK                    347201 36  97 KAY                
+ PRYOR OK                                347309 36  95 MAYES              
+ SEMINOLE OK                             348042 35  96 SEMINOLE           
+ SMITHVILLE OK                           348285 34  94 MC CURTAIN         
+ WEATHERFORD OK                          349422 35  98 CUSTER             
+ WEBBERS FALLS OK                        349445 35  95 MUSHOGEE           
+ WOODWARD FLD STA OK                     349762 36  99 WOODWARD           
+ AUSTIN 3 S OR                           35 356 44 118 GRANT              
+ BROTHERS OR                             351067 43 120 DESCHUTES          
+ CASCADIA R S OR                         351433 44 122 LINN               
+ CLATSKANIE 3 W OR                       351643 46 123 COLUMBIA           
+ CORVALLIS ST COL OR                     351862 44 123 BENTON             
+ ELKTON 2 W OR                           352633 43 123 DOUGLAS            
+ GOLD BEACH RS OR                        353356 42 124 CURRY              
+ HART MOUNTAIN REF OR                    353692 42 119 LAKE               
+ HEPPNER OR                              353827 45 119 MORROW             
+ HOOD RIVER EXP STA OR                   354003 45 121 HOOD RIVER         
+ HUNTINGTON OR                           354098 44 117 BAKER              
+ MALHEUR REFUGE HDQ OR                   355162 43 118 MALHEUR            
+ MEDFORD WB AP OR                        355429 42 122 JACKSON            
+ METOLIUS 1 W OR                         355515 44 121 JEFFERSON          
+ MONUMENT 2 OR                           355711 44 119 GRANT              
+ MORO OR                                 355734 45 120 SHERMAN            
+ NORTH BEND CAA AP OR                    356073 43 124 COOS               
+ MITCHELL 17 SW OCH OR                   356243 44 120 WHEELER            
+ OWYHEE DAM OR                           356405 43 117 MALHEUR            
+ PAISLEY OR                              356426 42 120 LAKE               
+ PILOT ROCK OR                           356634 45 118 UMATILLA           
+ PORTLAND WB AP OR                       356751 45 122 MULTNOMAH          
+ P-RANCH REFUGE OR                       356853 42 118 HARNEY             
+ ROME OR                                 357310 42 117 MALHEUR            
+ ROSEBURG AP OR                          357326 43 123 DOUGLAS            
+ SEXTON SUMMIT WB OR                     357698 42 123 JOSEPHINE          
+ SPRAGUE RIVER OR                        358007 42 121 KLAMATH            
+ SUNTEX OR                               358250 43 119 HARNEY             
+ TILLAMOOK OR                            358494 45 123 TILLAMOOK          
+ TOKETEE FALLS OR                        358536 43 122 DOUGLAS            
+ WALLOWA OR                              358997 45 117 WALLOWA            
+ WICKIUP DAM OR                          359316 43 121 DESCHUTES          
+ ALLENTOWN BETH WBAP PA                  36 106 40  75 LEHIGH             
+ EAGLES MERE PA                          362343 41  76 SULLIVAN           
+ EBENSBERG SWG PL PA                     362470 24 878 CAMBRIA            
+ ERIE AIRPORT PA                         362682 42  80 ERIE               
+ HARRISBURG 3S WB AP PA                  363699 40  76 YORK               
+ JAMESTOWN 2 NW PA                       364325 41  80 CRAWFORD           
+ LEWISTOWN PA                            364992 40  77 MIFFLIN            
+ LOCK  HAVEN 2 PA                        365109 41  77 CLINTON            
+ PITTSBURGH WB AP 2 PA                   366993 40  80 ALLEGHENY          
+ RIDGWAY PA                              367477 41  78 ELK                
+ SALINA 3 W PA                           367782 40  79 WESTMORELAND       
+ TIONESTA 2 SE DAM PA                    368873 41  79 FOREST             
+ TOBYHANNA PA                            368893 41  75 MONROE             
+ WELLSBORO 3 S PA                        369408 41  77 TIOGA              
+ WILLIAMSPRT 4E WBAP PA                  369728 41  76 LYCOMING           
+ KINGSTON RI                             374266 41  71 WASHINGTON         
+ AIKEN SC                                38  74 33  81 AIKEN              
+ ANDERSON SC                             38 165 34  82 ANDERSON           
+ CLEMSON COLLEGE SC                      381770 34  82 PICKENS            
+ KERSHAW SC                              384690 34  80 LANCASTER          
+ KINGSTREE SC                            384753 33  79 WILLIAMSBURG       
+ MC COLL SC                              385633 34  79 MARLBORO           
+ NEWBERRY SC                             386209 34  81 NEWBERRY           
+ ORANGEBURG 2 SE SC                      386527 33  80 ORANGEBURG         
+ SANTUCK 4 SE SC                         387722 34  81 UNION              
+ SPARTANBURG WBAP SC                     388191 34  81 SPARTANBURG        
+ YEMASSEE 4 W SC                         389469 32  80 BEAUFORT           
+ ABERDEEN SD                             39  20 45  98 BROWN              
+ ARMOUR SD                               39 296 43  98 DOUGLAS            
+ BRIDGEWATER SD                          391032 43  97 MC COOK            
+ BROOKINGS SD                            391076 44  96 BROOKINGS          
+ DE SMET SD                              392302 44  97 KINGSBURY          
+ EUREKA SD                               392797 45  99 MC PHERSON         
+ FORT MEADE SD                           393069 44 103 MEADE              
+ HIGHMORE 1 W SD                         393832 44  99 HYDE               
+ HOPEWELL 1SE SD                         393987 44 100 STANLEY            
+ HOT SPRINGS SD                          394007 43 103 FALL RIVER         
+ HURON WB AIRPORT SD                     394127 44  98 BEADLE             
+ LONG VALLEY SD                          394983 43 101 WASHABAUGH         
+ MADISON 1 WNW SD                        395088 44  97 LAKE               
+ MADISON RSRCH FARM SD                   395090 44  97 LAKE               
+ MILESVILLE SD                           395544 44 101 HAAKE              
+ MOBRIDGE SD                             395691 45 100 WALWORTH           
+ PIERRE CAA AP SD                        396597 44 100 HUGHES             
+ PORCUPINE 16NW SD                       396736 43 102 SHANNON            
+ REDIG 9 NE SD                           397062 45 103 HARDING            
+ SIOUX FALLS WBAP SD                     397667 43  96 MINNEHAHA          
+ TIMBER LAKE SD                          398307 45 101 DEWEY              
+ USTA 8 WNW SD                           398528 45 102 PERKINS            
+ WASTA SD                                398911 44 102 PENNINGTON         
+ WAUBAY NATL WLDLFE SD                   398980 45  97 DAY                
+ WINNER SD                               399367 43  99 TRIPP              
+ WOOD SD                                 399442 43 100 MELIETTE           
+ ALLARDT TN                              40  81 36  84 FENTRESS           
+ ATHENS TN                               40 284 35  84 MC MINN            
+ BRISTOL WB AIRPORT TN                   401094 36  82 SULLIVAN           
+ CENTERVILLE TN                          401587 35  87 HICKMAN            
+ COOKEVILLE 1 W TN                       402009 36  85 PUTMAN             
+ COVINGTON TN                            402108 35  89 TIPTON             
+ DOVER 1 NW TN                           402589 36  87 STEWART            
+ DRESDEN TN                              402600 36  88 WEAKLEY            
+ JEFFERSON CITY EVAP TN                  404609 36  83 JEFFERSON          
+ LEXINGTON TN                            405210 35  88 HENDERSON          
+ PIKEVILLE TN                            407184 35  85 BLEDSOE            
+ SAMBURG WLDLF RFG TN                    408065 36  89 OBION              
+ SHELBYVILLE 2 SW TN                     408246 35  86 BEDFORD            
+ SPRINGFIELD EXP STA TN                  408562 36  86 ROBERTSON          
+ ABILENE WB AP TX                        41  16 32  99 TAYLOR             
+ ANAHUAC 6 E TX                          41 235 29  94 CHAMBERS           
+ BALMORHEA EXP PAN TX                    41 498 31 103 REEVES             
+ BEEVILLE TX                             41 639 28  97 BEE                
+ BENAVIDES 2 TX                          41 690 27  98 DUVAL              
+ BIG SPRING WB AP TX                     41 786 32 101 HOWARD             
+ BLANCO TX                               41 832 30  98 BLANCO             
+ BORGER 3 W TX                           41 958 35 101 HUTCHINSON         
+ BROWNSVILLE WB AP  TX                   411136 25  97 CAMERON            
+ CAMERON TX                              411348 30  96 MILAM              
+ CARRIZO SPRINGS TX                      411486 28  99 DIMMIT             
+ CHILDRESS TX                            411698 34 100 CHILDRESS          
+ COLEMAN TX                              411875 31  99 COLEMAN            
+ COLLEGE STATION CAA TX                  411889 30  96 BRAZOS             
+ COLUMBUS TX                             411911 29  96 COLORADO           
+ CONROE 6 E TX                           411956 30  95 MONTGOMERY         
+ COPE RANCH TX                           411974 31 101 DELTA              
+ CORNUDAS SERVICE ST TX                  412012 31 105 HUDSPETH           
+ CORPUS CHRISTI WBAP TX                  412015 27  97 NUECES             
+ CRANE TX                                412082 31 102 CRANE              
+ DEL RIO WB AP TX                        412360 29 100 VAN VERDE          
+ DIMMIT 2N TX                            412464 34 102 CASTRO             
+ EAGLE PASS TX                           412679 28 100 MAVERICK           
+ EASTLAND TX                             412715 32  98 EASTLAND           
+ FALCON DAM TX                           413060 26  99 STARR              
+ FOLLETT TX                              413225 36 100 LIPSCOMB           
+ FORT STOCKTON TX                        413280 30 102 PECOS              
+ FOWLERTON TX                            413299 28  98 MC MULLEN          
+ GAINESVILLE TX                          413415 33  97 COOKE              
+ GOLDTHWAITE TX                          413614 31  98 MILLS              
+ GONZALES TX                             413622 29  97 GONZALES           
+ HENRIETTA TX                            414093 33  98 CLAY               
+ HILLSBORO TX                            414182 32  97 HILL               
+ HONDO TX                                414254 29  99 MEDINA             
+ JAYTON TX                               414570 33 100 KENT               
+ JOHNSON CITY TX                         414605 30  98 BLANCO             
+ KAUFMAN TX                              414705 32  96 KAUFMAN            
+ LAREDO NO 2 TX                          415060 27  99 WEBB               
+ LIVINGSTON TX                           415271 30  94 POLK               
+ LUBBOCK WB AP TX                        415411 33 101 LUBBOCK            
+ LUFKIN CAA AP TX                        415424 31  94 ANGELINA           
+ MARATHON TX                             415579 30 103 BREWSTER           
+ MARFA 2 TX                              415596 30 104 PRESIDIO           
+ MARSHALL TX                             415618 32  94 HARRISON           
+ MASON TX                                415650 30  99 MASON              
+ MATAGORDA TX                            415659 28  95 MATAGORDA          
+ MC COOK TX                              415721 26  98 HIDALGO            
+ MC GREGOR TX                            415757 31  97 MC LENNAN          
+ MEXIA TX                                415869 31  96 LIMESTONE          
+ MIAMI TX                                415875 35 100 ROBERTS            
+ MORTON TX                               416074 33 102 COCHRAN            
+ OZONA TX                                416734 30 101 CROCKETT           
+ PALESTINE WB CITY TX                    416757 31  95 ANDERSON           
+ PANDALE TX                              416780 30 101 VAN VERDE          
+ PANTHER JUNCTION TX                     416792 29 103 BREWSTER           
+ PARIS TX                                416794 33  95 LAMAR              
+ PECOS  TX                               416892 31 103 REEVES             
+ PORT MANSFIELD TX                       417184 26  97 WILLACY            
+ PORT OCONNOR TX                         417186 28  96 CALHOUN            
+ PRESIDIO TX                             417262 29 104 PRESIDIO           
+ ROSCOE TX                               417743 32 100 NOLAN              
+ SAN ANGELO TX                           417943 31 100 TOM GREEN          
+ SAN ANTONIO WB AP TX                    417945 29  98 BEXAR              
+ SEMINOLE TX                             418201 32 102 GAINES             
+ SEYMOUR TX                              418221 33  99 BAYLOR             
+ SHERMAN TX                              418274 33  96 GRAYSON            
+ SILVERTON TX                            418323 34 101 BRISCOE            
+ SONORA TX                               418449 30 100 SUTTON             
+ SPEARMAN TX                             418523 36 101 HANSFORD           
+ STRATFORD TX                            418692 36 102 SHERMAN            
+ TAYLOR TX                               418861 30  97 WILLIAMSON         
+ TEMPLE TX                               418910 31  97 BELL               
+ THOMPSON 3WSW TX                        418996 29  95 FORT BEND          
+ TYLER 5NE TX                            419214 32  95 SMITH              
+ VAN HORN TX                             419295 31 104 CULBERSON          
+ VEGA TX                                 419330 35 102 OLDHAM             
+ VICTORIA WB AP TX                       419364 28  96 VICTORIA           
+ WEATHERFORD TX                          419532 32  97 PARKER             
+ YSLETA TX                               419966 31 106 EL PASO            
+ ALTAMONT UT                             42  74 40 110 DUCHESNE           
+ ALTON UT                                42  86 37 112 KANE               
+ BEAR RIVER REFUGE  UT                   42 506 41 112 BOX ELDER          
+ BLACK ROCK  UT                          42 730 38 112 MILLARD            
+ BLANDING UT                             42 738 37 109 SAN JUAN           
+ BOULDER UT                              42 849 37 111 GARFIELD           
+ DESERT EXP RANGE  UT                    422116 38 113 MILLARD            
+ HANKSVILLE AP UT                        423611 38 110 WAYNE              
+ HEBER UT                                423809 40 111 WASATCH            
+ JENSEN UT                               424342 40 109 UINTAH             
+ KANOSH UT                               424527 38 112 MILLARD            
+ KOOSHAREM UT                            424764 38 111 SEVIER             
+ LUCIN UT                                425239 41 113 BOX ELDER          
+ MOAB UT                                 425733 38 109 GRAND              
+ MONUMENT VALLY MISS UT                  425812 37 110 SAN JUAN           
+ MORONI UT                               425837 39 111 SANPETE            
+ OAK CITY UT                             426357 39 112 MILLARD            
+ PARK VALLEY UT                          426658 41 113 BOX ELDER          
+ PARTOUN UT                              426708 39 113 JUAB               
+ SUNNYSIDE UT                            428474 39 110 CARBON             
+ THOMPSON UT                             428705 38 109 GRAND              
+ TOOELE UT                               428771 40 112 TOOELE             
+ VEYO POWER HOUSE UT                     429136 37 113 WASHINGTON         
+ WENDOVER AP UT                          429382 40 114 TOOELE             
+ WOODRUFF UT                             429595 41 111 RICH               
+ BURLINGTON WB AP VT                     431081 44  73 CHITTENDEN         
+ MONTPELIER AP VT                        435278 44  72 WASHINGTON         
+ WOODSTOCK VT                            439984 43  72 WINDSOR            
+ BIG MEADOWS 2 VA                        44 720 38  78 MADISON            
+ BLACKSBURG 2 VA                         44 766 37  80 MONTGOMERY         
+ BUCHANAN VA                             441121 37  79 BOTETOURT          
+ BURKES GARDEN VA                        441209 37  81 TAZEWELL           
+ COLUMBIA VA                             441929 37  78 GOOCHLAND          
+ MANASSAS VA                             445213 38  77 PR WILLIAM         
+ MATHEWS 2ENE VA                         445338 37  76 MATHEWS            
+ MONTEREY VA                             445698 38  79 HIGHLAND           
+ PAINTER 2W VA                           446475 37  75 FLUVANNA           
+ PENNINGTON GAP 1 W VA                   446626 36  83 LEE                
+ RICHMOND WB AP VA                       447201 37  77 HENRICO            
+ WINCHESTER RES LAB VA                   449186 39  78 FREDERICK          
+ WISE 1SE VA                             449215 36  82 WISE               
+ ABERDEEN 20 NNE WIS VA                  45  13 47 123 GRAYS HARBOR       
+ ANACORTES WA                            45 176 48 122 SKAGIT             
+ BREMERTON NAVY YARD WA                  45 872 47 122 KITSAP             
+ CEDAR LAKE WA                           451233 47 121 KING               
+ CLEARWATER WA                           451496 47 124 JEFFERSON          
+ COLVILLE WB AP WA                       451650 48 117 STEVENS            
+ CONCONULLY WA                           451666 48 119 OKANOGAN           
+ CONCRETE WA                             451679 48 121 SKAGIT             
+ ELLENSBURG WA                           452505 47 120 KITTITAS           
+ ELLENSBURG WB AP WA                     452508 47 120 KITTITAS           
+ EPHRATA CAA AP WA                       452614 47 119 GRANT              
+ GRAYS RIVER HATCH WA                    453333 46 123 PACIFIC            
+ HARRINGTON 4 ENE WA                     453515 47 118 LINCOLN            
+ HATTON 10 E WA                          453546 46 118 ADAMS              
+ LIND 3 NE EXP STA WA                    454679 47 118 ADAMS              
+ lONG BEACH EXP STA WA                   454748 46 124 PACIFIC            
+ MAZAMA 2 W WA                           455133 48 120 OKANOGAN           
+ OLYMPIA WB AP WA                        456114 46 122 THURSTON           
+ PACKWOOD WA                             456262 46 121 ADAMS              
+ POMEROY WA                              456610 46 117 GARFIELD           
+ PORT ANGELES WA                         456624 48 123 CLALLAM            
+ REPUBLIC WA                             456974 48 118 FERRY              
+ RICHLAND 2 NW WA                        457015 46 119 BENTON             
+ SAPPHO 8EESSNIDERS WA                   457319 48 124 CLALLAM            
+ SPOKANE WB AP WA                        457938 47 117 SPOKANE            
+ TATOOSH ISLAND WB WA                    458332 48 124 CLALLAM            
+ WENATCHEE WA                            459074 47 120 CHELAN             
+ YAKIMA WB AP WA                         459465 46 120 YAKIMA             
+ BECKLEY V A HOSP WV                     46 580 37  81 RALEIGH            
+ CHARLESTON KAN AP WV                    461570 38  81 KANAWHA            
+ CLARKSBURG 1 WV                         461677 39  80 HARRISON           
+ HUNTINGTON WSO AP WV                    464393 38  82 WAYNE              
+ KEARNEYSVILLE 1 NW WV                   464763 39  77 JEFFERSON          
+ LEWISBURG WV                            465224 37  80 GREENBRIER         
+ PARKERSBURG WB CITY WV                  466859 39  81 WOOD               
+ ROMNEY WV                               467730 39  78 HAMPSHIRE          
+ ROWLESBURG 1 WV                         467785 39  79 PRESTON            
+ SPRUCE KNOB WV                          468433 38  79 PENDLETON          
+ WEBSTER SPRINGS WV                      469333 38  80 WEBSTER            
+ ELLSWORTH WI                            472556 44  92 PIERCE             
+ KEWAUNEE WI                             474195 44  87 KEWAUNEE           
+ LAKE GENEVA WI                          474457 42  88 JEFFERSON          
+ LAONA RANGER ST WI                      474582 45  88 FOREST             
+ MELLEN PWR CO DAM WI                    475286 46  90 ASHLAND            
+ MONDOVI WI                              475563 44  91 BUFFALO            
+ NEILLSVILLE WI                          475808 44  90 CLARK              
+ NEW LONDON WI                           475932 44  88 WAUPACA            
+ PORTAGE LOCK WI                         476718 43  89 COLUMBIA           
+ PRENTICE 5 W WI                         476859 45  90 PRICE              
+ RHINELANDER WTR WKS WI                  477113 45  89 ONEIDA             
+ ST CROIX FALLS WI                       477464 45  92 POLK               
+ SOLON SPRINGS WI                        477892 46  91 DOUGLAS            
+ STEVENS POINT WI                        478171 44  89 PORTAGE            
+ VIROQUA WI                              478827 43  90 VERNON             
+ WEST BEND WI                            479050 43  88 WASHINGTON         
+ WEYERHAUSER WI                          479144 45  91 RUSK               
+ ALVA 5SSE WY                            48 200 44 104 CROOK              
+ BITTER CREEK WY                         48 761 41 108 SWEETWATER         
+ BLACK MOUNTAIN WY                       48 778 43 107 HOT SPRINGS        
+ BORDER 3 N WY                           48 915 42 111 LINCOLN            
+ BUFFALO BILL DAM WY                     481175 44 109 PARK               
+ BURGESS JUNCTION WY                     481220 44 107 SHERIDAN           
+ CASPER WB AP WY                         481570 42 106 NATRONA            
+ CLEARMONT 2SW WY                        481816 44 106 SHERIDAN           
+ DOUGLAS AVIATION WY                     482693 42 105 CONVERSE           
+ DUBOIS WY                               482715 43 109 FREMONT            
+ GILLETTE WY                             483855 44 105 CAMPBELL           
+ JACKSON WY                              484910 43 110 TETON              
+ KEMMERER WY                             485105 41 110 LINCOLN            
+ LAKE YELLOWSTONE WY                     485345 44 110 PARK               
+ LANDER WB AP WY                         485390 42 108 FREMONT            
+ LARAMIE CAA AP WY                       485415 41 105 ALBANY             
+ LUSK WY                                 485830 42 104 NIOBRARA           
+ MIDWEST WY                              486195 43 106 NATRONA            
+ MUDDY GAP WY                            486595 42 107 CARBON             
+ PHILLIPS WY                             487200 41 104 GOSHEN             
+ PINEDALE WY                             487260 42 109 SUBLETTE           
+ POWELL WY                               487380 44 108 PARK               
+ RAWLINS CAA AP WY                       487533 41 107 CARBON             
+ REDBIRD WY                              487555 43 104 NIOBRARO           
+ RENO WY                                 487683 43 105 CAMPBELL           
+ ROCK SPRINGS WB AP WY                   487845 41 109 SWEETWATER         
+ SARATOGA WY                             487990 41 106 CARBON             
+ THERMOPOLIS 24 WNW WY                   488888 43 108 SPRINGS            
+ WASHINGTON, DISTRICT OF COLUMBIA        49   1  9 138 CAROLINE IS        
+ ADAK AK                                 50  26 51 176 ALEUTIAN ISLAND    
+ AMBLER WEST AK                          50 260 67 157 BARROW-KOBUK       
+ ANNETTE WSO AP AK                       50 352 55 131 KETCHIKAN-PRINCE OF
+ BARROW WSO AP AK                        50 546 71 156 BARROW-KOBUK       
+ BARTER ISLAND WSO AP AK                 50 558 70 143 FAIRBANK-FORT YUKON
+ BETHEL WSO AP AK                        50 754 60 161 BETHEL             
+ BETTLES FAA AP AK                       50 761 66 151 YUKON-KUSHOKWIM    
+ CAPE LISBURNE AK                        501312 68 166 BARROW-KOBUK       
+ CAPE NEWENHAM AK                        501314 58 162 BRISTOL BAY        
+ CAPE ROMANZOF AK                        501318 61 166 WADE HAMPTON       
+ CIRCLE CITY AK                          501977 65 144 FAIRBANKS-FORT YUKO
+ CLEAR WATER AK                          502019 64 145 FAIRBANKS-FORT YUKO
+ COLD BAY WSO AP AK                      502102 55 162 ALEUTIAN ISLANDS   
+ DILLINGHAM FAA AP AK                    502457 59 158 BRISTOL BAY        
+ DUTCH HARBOR AK                         502587 53 166 ALEUTIAN ISLANDS   
+ EAGLE AK                                502607 64 141 FAIRBANKS-FORT YUKO
+ FAIRBANKS WSFO AP AK                    502968 64 147 FAIRBANKS-FORT YUKO
+ GAMBELL AK                              503226 63 171 ST LAWRENCE ISLAND 
+ HOMER WSO AP AK                         503665 59 151 KENAI-COOKINLET    
+ ILIAMNA FAA AP AK                       503905 59 154 BRISTOL BAY        
+ INDIAN MOUNTAIN AK                      503910 65 153 YUKON-KUSKOKWIM    
+ JUNEAU FAA AP AK                        504100 58 134 JUNEAU             
+ KLAWOCK AK                              504898 55 133 KETCHIKAN-PRINCE OF
+ KODIAK WSO AP AK                        504988 57 152 KODIAK             
+ KOTZEBUE WSO AP AK                      505076 66 162 BARROW-KOBUK       
+ MANTANUSKA AG EX STN AK                 505733 61 149 PALMER-WASILLA-TALK
+ MCGRATH WSO AP AK                       505769 62 155 YUKON-KUSKOKWIM    
+ NOME WSO AP AK                          506496 64 165 NOME               
+ NORTHWAY FAA AP AK                      506586 62 141 FAIRBANKS-FORT YUKO
+ ST. PAUL IS. WSO AP AK                  508118 57 170 ALEUTIAN ISLANDS   
+ TALKEETNA WSO AP AK                     508976 62 150 PALMER-WASILLA-TALK
+ VALDEZ WSO AP AK                        509686 61 146 CORDOVA-VALDEZ     
+ YAKUTAT WSO AP AK                       509941 59 139 LYNN CANAL-ICY STRA
+ EWA PLANTATION HI                       51 507 21 158 EWA                
+ HALECKALA EXP FARM HI                   51 995 20 156 MAKAWAO            
+ HANA 354 HI                             511122 20 155 HANA               
+ HANA AP 355 HI                          511125 20 156 HANA               
+ HONOLULU WSFO 703 AP HI                 511919 21 157 HONOLULU           
+ KAANAPALI AP 435.1 HI                   512307 20 156 LAHAINA            
+ KAHUKU 912 HI                           512570 21 157 AHV                
+ KAINALIU 732 AP HI                      512751 19 155 N KONA             
+ KEALIA 1112 HI                          513982 19 155 KWAWIHAU           
+ KEKAHA 944 HI                           514272 21 159 WAIMEA             
+ KOLOA 936 HI                            514742 21 159 KOLOA              
+ KUALAPUU HI                             514778 21 157 MOLOKAI            
+ KUKUIHAELE 206 HI                       514938 20 155 HAMAKUA            
+ LIHUE WSO AP HI                         515580 21 159 LINUE              
+ MAKAPUU POINT 724 HI                    515800 21 151 OAHU               
+ MAUNALOA 511 HI                         516190 19 155 HAMUKUA            
+ PUAKO 95.1 HI                           518186 19 155 HAWAII             
+ GURADO SUBSTATION PR                    664276 18  66 HUMACAO            
+ HUMACAO PR                              664613 18  65 HUMACAO            
+ ISABELA SUBSTATION PR                   664702 18  67 MAYAGUEZ           
+ MANATI PR                               665807 18  66                    
+ SAN JUAN PR                             668812 18  66 SAN JUAN           
+ UTUADO PR                               669608 18  66 ARECIBO            
+ CANTON ISLAND PI                        914101 -3-172 CANTON ISLAND      
+ GUAM WSMO PI                            914229 14 145 MARIANNA           
+ JOHNSTON IS. WB AP PI                   914320 17-170 LINE ISLANDS       
+ KOROR WB PI                             914351  7 134 CAROLINE IS        
+ KWAJALEIN WB AP PI                      914375  9 168 MARSHALL IS        
+ MAJURO WB AP PI                         914460  7 171 MARSHALL IS        
+ PAGO PAGO WSO AP PI                     914690-14-170 AMER SAMOA         
+ PONAPE WB PI                            914751  7 158 CAROLINE IS        
+ TRUK MOEN I WSO AP PI                   914851  8 152 CAROLINE IS        
+ WAKE ISLAND WSO AP PI                   914901 19 167 WAKE ISLAND        
+ YAP ISLAND WB PI                        914951 10 138 CAROLINE IS        

@@ -1,0 +1,49 @@
+RZWQM2-2D
+*****************************
+* Plot definitions          *
+*   - Num Columns           *
+*   - Num Subplots          *
+*****************************
+   9  4
+*****************************
+* Subplot definitions       *
+*****************************
+1
+0 4
+2 3 4 5
+Nitrogen Condition
+Days
+Relative N Condition (%)
+3
+0 4 1
+2 3 4 5
+6
+Nitrogen Condition
+Days
+Relative N Condition (%)
+Nitrogen Fitness
+1
+0 2
+7 8
+Plant N Demand
+Days
+Uptake (kg/ha)
+1
+0 1
+6
+Nitrogen Condition
+Days
+Nitrogen Fitness
+*****************************
+*       COLUMN LABELS       *
+*****************************
+DAY
+GROWTH STAGE
+OPTIMAL NITROGEN %
+ACTUAL NITROGEN %
+LOWER LIMIT N %
+MINIMUM N %
+PLANT N FITNESS
+ACTUAL UPTAKE
+NITROGEN DEMAND
+****************** DATA STARTS HERE *****************

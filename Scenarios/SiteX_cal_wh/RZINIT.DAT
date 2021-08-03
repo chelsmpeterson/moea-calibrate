@@ -1,0 +1,148 @@
+========================================================================
+=======================  R Z W Q M 2   V E R  3.41.00 ==================
+========================================================================
+==              Text Headers Last Modified:  04.06.2010 (V2.0)
+========================================================================
+==             PHYSICAL PROCESSES STATE INITIALIZATION                ==
+==                 MODEL VARIABLES AND PARAMETERS                     ==
+==                                                                    ==
+==                WATERSHED:                                          ==
+==                                                                    ==
+========================================================================
+=     soil horizon physical properties conditions
+=
+= RECORD #   DESCRIPTION
+= --------   -----------
+=    1.1  form hydraulic state is presented
+=                0 - tensiometric potential                [cm of water]
+=                1 - soil water content                      [cm^3/cm^3]
+=    1.2  restore run to initial input conditions of soil    [default=0]
+=		     0 - No, Run Continously
+=    		     1 - Yes, on the planting day of year 
+=		     2 - Yes, on the start of the run day of year        
+=    2       hydraulic state, temperature state                 [C]
+=
+=            ... repeat record 2 for all horizons
+========================================================================
+1  0
+0.0555  10.0  
+0.0555  19.0  
+0.0517  18.0  
+0.0517  17.0  
+0.4906  16.0  
+0.4906  15.0  
+0.4717  15.0  
+========================================================================
+==                   S O I L   C H E M I S T R Y                      ==
+==                 MODEL VARIABLES AND PARAMETERS                     ==
+==                                                                    ==
+========================================================================
+=     soil layer inorganic chemistry conditions
+=
+= REC  NO.   DESCRIPTION
+= --------   -----------
+=     1      ph                                                  [2..14]
+=     1.1    logical flag for presence of lime salt solid         [T..F]
+=     1.2    logical flag for presence of gypsum salt solid       [T..F]
+=     1.3    logical flag for presence of gibbsite salt solid     [T..F]
+=     1.4    partial pressure of CO2 gas                           [atm]
+=     1.5    cation exchange capacity (CEC) of the soil       [meq/100g]
+=     1.6    fraction of exchangable ions for Ca  \               [0..1]
+=     1.7    fraction of exchangable ions for Na  |   set to      [0..1]
+=     1.8    fraction of exchangable ions for Mg  |-> zero for    [0..1]
+=     1.9    fraction of exchangable ions for NH4 |   program to  [0..1]
+=     1.10   fraction of exchangable ions for Al  /   calculate   [0..1]
+=     1.11   soil chemistry adjustment factor for initial chem
+=            concentrations, weight H2O / weight soil.            [0..1]
+=     2      chem concentrations (Ca, Na, Mg, Cl, HCO3)      [ug/g-soil]
+=     3      chem concentrations (SO4, AL, CO3)              [ug/g-soil]
+=
+=    (Repeat records 1-3 for each soil horizon)
+========================================================================
+6.5   T  F  F 0.000275  28.5  0.0  0.0  0.0  0.0  0.0  0.07  
+43.67  46.43  9.0  3.45  200.3  
+3.448  0.0  0.0  
+6.5   T  F  F 0.00028  28.5  0.0  0.0  0.0  0.0  0.0  0.06  
+34.73  49.4  6.233  3.357  179.0  
+3.356  0.0  0.0  
+6.5   T  F  F 0.00025  24.83  0.0  0.0  0.0  0.0  0.0  0.07  
+32.47  43.8  4.467  3.313  211.0  
+3.311  0.0  0.0  
+6.5   T  F  F 0.000285  24.0  0.0  0.0  0.0  0.0  0.0  0.06  
+33.0  58.17  7.933  3.207  209.7  
+3.205  0.0  0.0  
+6.8   T  F  F 0.000295  20.78  0.0  0.0  0.0  0.0  0.0  0.06  
+42.23  60.3  10.367  2.978  219.0  
+2.976  0.0  0.0  
+7.6   T  F  F 0.000245  15.75  0.0  0.0  0.0  0.0  0.0  0.1  
+36.8  53.77  9.633  2.925  192.0  
+2.924  0.0  0.0  
+7.6   T  F  F 0.000245  15.75  0.0  0.0  0.0  0.0  0.0  0.1  
+36.8  53.77  9.633  2.925  192.0  
+2.924  0.0  0.0  
+========================================================================
+==                      N U T R I E N T                               ==
+==                 MODEL VARIABLES AND PARAMETERS                     ==
+==                                                                    ==
+========================================================================
+=      ... Initial conc for each nutrient pool listed below
+=
+= ITEM  #    DESCRIPTION
+= --------   -----------
+=    1       CR-1 - slow residue pool                  [ug-carbon/g-soil]
+=    2       CR-2 - fast residue pool                  [ug-carbon/g-soil]
+=    3       OM-1 - fast soil humus pool               [ug-carbon/g-soil]
+=    4       OM-2 - medium soil humus pool             [ug-carbon/g-soil]
+=    5       OM-3 - slow soil humus pool               [ug-carbon/g-soil]
+=    6       CO2  - carbon sink pool                   [ug-carbon/g-soil]
+=    7       HET1 - aerobic heterotrophs population  [# organisms/g-soil]
+=    8       AUTO - autotrophs population            [# organisms/g-soil]
+=    9       HET2 - anerobic heterotrophs population [# organisms/g-soil]
+=    10      UREA-N - urea concentration                    [ug-N/g-soil]
+=    11      NO3-N  - nitrogen concentration                [ug-N/g-soil]
+=    12      NH4-N  - ammonium concentration                [ug-N/g-soil]
+=    13      PO4-P  - phosphate concentration               [ug-N/g-soil]
+=    14      N2  - nitrogen sink pool                       [ug-N/g-soil]
+=    15      INITIAL LABILE P POOL                          [ug-N/g-soil]
+=    16      INITIAL STABLE ORGANIC P POOL                  [ug-N/g-soil]
+=    17      INITIAL FRESH ORGANIC P POOL                   [ug-N/g-soil]
+=
+=       ...repeat For each horizon
+========================================================================
+424.6  208.2  450.1  2126.7  26000.0  0.0  309742.3  8378.2  312175.0  0.0  3.351  0.011  0.0  0.0  0.0  0.0  0.0  
+235.0  9.8  423.3  2122.3  26000.0  0.0  226910.0  5400.4  193310.2  0.0  2.625  0.009  0.0  0.0  0.0  0.0  0.0  
+113.6  0.4  308.4  1519.7  11000.0  0.0  33468.0  1195.4  69000.0  0.0  2.323  0.001  0.0  0.0  0.0  0.0  0.0  
+68.7  0.0  388.8  1348.9  7998.9  0.0  14000.0  681.6  47199.0  0.0  1.547  0.0  0.0  0.0  0.0  0.0  0.0  
+17.6  3.1  179.4  746.7  4638.4  0.0  2388.4  204.3  18000.0  0.0  1.252  0.0  0.0  0.0  0.0  0.0  0.0  
+14.5  2.9  107.2  180.9  987.2  0.0  271.9  83.2  5990.0  0.0  1.058  0.0  0.0  0.0  0.0  0.0  0.0  
+1.0  0.9  19.4  156.0  982.7  0.0  47.6  6.0  183.0  0.0  0.747  0.0  0.0  0.0  0.0  0.0  0.0  
+========================================================================
+==                      P E S T I C I D E S                           ==
+==                 MODEL VARIABLES AND PARAMETERS                     ==
+==                                                                    ==
+========================================================================
+=     soil profile state  of initial pesticide concentrations.
+=
+=     note: conc on plants and residue is in ug/cm^2, to convert
+=           from KG/HA ==> UG/CM^2 multiply by 10.0
+=
+= ITEM  #   DESCRIPTION
+= --------   -----------
+=    1.1     pesticide sequence number (corresponds to pesticide  [1..3]
+=                indentification number in RZWQM.DAT)
+=    1.2     amount of pesticide on plant surfaces             [ug/cm^2]
+=    1.3     amount of pesticide on residue surfaces           [ug/cm^2]
+=       ... repeat item 1 for all pesticides
+=
+=    2       amount of pesticide in soil horizon; a column   [ug/g-soil]
+=              for each pesticide
+=
+=       ... repeat item 2 for all horizons
+========================================================================
+
+
+
+
+
+
+

@@ -1,0 +1,88 @@
+=UF-Erosion-ADDENDUM
+========================================================================
+==                                                                    ==
+==                GLEAMS E R O S I O N   M O D E L                    ==
+==                 MODEL VARIABLES AND PARAMETERS                     ==
+==                                                                    ==
+========================================================================
+=     Erosion control parameters
+=
+=	See GLEAMS documentation for more detailed descriptions.
+=
+= ITEM NO.   DESCRIPTION
+= --------   -----------
+= DAREA		Drainage area of the field
+= CHS		Hydraulic slope: slope of the longest flow path (LFP)
+=		CHS = (ELEVmax - ELEVmin) / LFP
+= WLW		Watershed length::width ratio
+=		WLW = LFP^2 / (DAREA * 10000)  for metric (DAREA=ha, LFP=m)
+=		WLW = LFP^2 / (DAREA * 43560)  for english (DARE=ac, LFP=ft)
+= BYEAR		Four-digit year when simulation begins
+= EYEAR		Four-digit year when simulation ends
+= EROOUT	Code for output:
+=			0  abbreviated annual summary
+=			1  detailed annual summary
+=			2  abbreviated monthly and annual summary
+=			3  detailed monthly and annual summary
+=			4  abbreviated storm-by-storm and summary
+=			5  detailed storm-by-storm and summary
+= FLGSEQ	Flag indicaties the execution sequence of erosion-sediment 
+= 		sub-models as follows:
+=			1  overland (RZ Limit)
+=			2  overland-impoundment
+=			3  overland-channel
+=			4  overland-channel-channel
+=			5  overland-channel-impoundment
+=			6  overland-channel-channel-impoundment
+= METFLG	Code for metrication: 0 = english units; 1 = metric units
+= SSCLY		Specific surface area for clay particles (m^2/g)
+=		Suggested values: 20.0 for kaolinite, 800.0 for montmorillonite
+= NPTSO		Number of points for overland flow profile slope (Max = 10)		
+= DAOVR		Drainage area represented by the overland flow profile
+=		Units = acres or hectacres
+= XOV(nptso)	Distance from upper end of overland flow profile to the point
+= 		where slope is given. Units = ft or m		
+= SLOV(nptso)	Slope of the overland flow profile at the XOV. ft/ft or m/m
+= NXK		Number (1 to 4) of slope segments differentiated by changes in 
+=		soil erodibility factor
+= XSOIL(nxk)	Relative horizontal distance from top to bottom of the slope.
+=		Last value must be 1.0.
+= KSOIL(nxk)	Soil erodibility factor for the slop segment just above XSOIL
+=		Units = ton/ac or t.ha.h/ha.MJ.mm
+= NYEARS	Number of years in this rotation
+= CDATE(10)	The Julian days on which sets of parameters take effect.
+= NXF		Number (1 to 4) of overland flow profile segments 
+=		differentiated by changes in the overland flow updateable
+=		(annual) parameters
+= XFACT(nxf)	Relative horizontal distance from the top of the overland flow
+=		profile to the bottof segment (ratio of distance to bottom of 
+=		segment to total profile length)
+= CFACT(nxf,nyears)	Soil loss ratio for overland flow profile segment
+= PFACT(nxf,nyears)	Contouring factor for overland flow profile segment
+= NFACT(nxf,nyears)	Mannings 'n' for overland flow profile segment.
+=			must never be less than 0.010
+= Line  1	{Use-Enrichment}
+=		2	{DAREA, CHS, WLW}
+=		3	{SSCLY}
+=		4	{NPTSO, DAOVR}
+=		5	{XOV(nptso), SLOV(nptso)}
+=		6	{NXK,XSOIL(nxk),KSOIL(nxk)}
+=		7	{NYEARS}
+=		8	{CDATE(10)}
+=		9	{NXF,XFACT(nxf)}
+=		10	{CFACT(nxf)/1/1}
+=		11	{PFACT(nxf)/1/1}
+=		12	{NFACT(nxf)/1/1}
+========================================================================
+T
+4.8       1         1   
+20        
+1         0         
+1         0.0099487044
+1         1.0       0.005     
+1
+001       
+1         1.0       
+0.01    
+0.01    
+0.01    

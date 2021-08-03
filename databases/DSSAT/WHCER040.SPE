@@ -1,0 +1,174 @@
+$SPECIES:WHCER040
+
+! Coefficients presented here differ from those used in DSSAT 
+! Version 3.5. They have been developed from 'parameters'
+! embedded in the code of the Ceres model,from the Cropsim model,
+! and from the literature. They are likely to change as more
+! experience is gained, and should not yet be taken as fixed.
+! This is particularly relevant for the temperature response
+! characteristics, which are now being actively researched, 
+! and for some other coefficients. For these latter, the values
+! given below could be tried if there is difficulty in 'fitting' 
+! a particular experiment or series of experiments.
+!    RLDGR 120 -> 1000  RLWR 0.98 -> 6.0  RWUMX 0.03 -> 0.04
+!    WFRG  0.25 -> 1.0
+
+*SPECIES:WHCER040
+@  PEG  PECM    P0  P1DT  P1VT P2(1) P4(1) P4(2) PDUR6
+    10  10.0     0  20.0    50    80  0.25  0.10  100.
+@LATFR LSENS LSEWF LRETS TILDF GRNMX
+  0.80  5.70  0.50   3.0   .10   3.2
+@WFSAG
+   0.0
+@RLIGP PORMN RDGTH RLDGR RLFNU  RLWR  RSEN RTREF RWUMX
+  10.0  0.02   275   120   8.0  0.98 .0080  0.40  0.03
+@LAWMN LLIGP LSAWS LSENF LSHFR LNUMF
+   0.5  10.0  50.0 0.002  0.33   1.3
+@SLIGP  SAWS  SSEN SSSTG CHSTG  CHFR CHRSF
+  10.0  17.0 .0053   5.8   3.5   0.4   0.7
+@SDAFR  SDSZ SDNPC
+  0.05 .0284 1.900
+@GLIGP GRNMX
+  10.0   3.2
+@ XNFS  PTFX
+  0.20  0.98
+@LT50S  HDUR
+  -6.0  10.0
+@ PART SRADT
+  0.07  0.25
+@ NFRG  NFSF  NFSU NFTIU NFTIL NH4MN NO3MN NUMAX NTUPF NFSM
+ -0.15  0.02   0.8   1.0   0.6   0.0   0.0 0.454  0.05  0.9
+@WFNUL WFNUU WFRDG  WFRG WFGEU  WFSU  WFSF WFTIU WFTIL
+   0.0   0.4  2.00  0.25  0.50   0.6  0.02   2.0   0.5
+@TRDV1 TRDV2 TRLFG TRPHS TRVRN TRLTH TRGFW TRGFN TRGNO
+     0     0     0     0    -5    -5     0     0     0
+    26    30    10    10     0     0    16    16    16
+    50    50    20    25     7     5    35    35    35
+    60    60    35    35    15    10    45    45    45
+@CO2RF CO2FR
+     0  0.00
+   220  0.71
+   330  1.00
+   440  1.08
+   550  1.17
+   660  1.25
+   770  1.32
+   880  1.38
+   990  1.43
+  9999  1.50
+@ PTFS  PTFA  STFR PLASF
+  0.65  0.10  0.00  0.00
+  0.70  0.10  0.15  0.10
+  0.75  0.10  0.51  0.10
+  0.80  0.10  1.00  0.10
+  1.00  0.35  1.00  0.10
+  1.00  0.35  1.00  1.00
+@LCNCS SCNCS RCNCS LMNCS SMNCS RMNCS
+ .0800 .0250 .0204 .0290 .0020 .0153
+ .0600 .0250 .0197 .0248 .0020 .0147
+ .0500 .0200 .0189 .0205 .0020 .0141
+ .0500 .0150 .0182 .0165 .0020 .0136
+ .0450 .0100 .0177 .0118 .0020 .0133
+ .0350 .0050 .0173 .0070 .0020 .0129
+ .0250 .0025 .0168 .0025 .0020 .0126
+! For mature straw, work at Swift Current showed
+! the protein content for HY320 to be 4.3%, for
+! Neepawa, 1.5% (or SMNCS of 0.006, 0.002)
+@ HTFR  LAFR
+   0.0   0.0
+   0.5   0.5
+   1.0   1.0
+
+! COEFF   DEFINITION
+! =====   ==========
+! CHFR    Fraction of assimilates to chaff (#)
+! CHRSF   Fraction of new reserves to chaff (#)
+! CHSTG   Chaff growth start stage (GrowthStage)
+! CO2FR   CO2 factor,photosynthesis,relative (0-1)
+! CO2RF   CO2 reference (vpm)
+! GLIGP   Grain lignin (%)
+! GRNMX   Maximum grain N (For when assimilate supply limited) (%)
+! HDUR    Days for complete cold hardening (d)
+! HTFR    Canopy ht fraction (top down) for lf area distribution (#)
+! LAFR    Leaf area fraction associated with height fraction (#)
+! LATFR   Area of leaves on first branch relative to main shoot (fr)
+! LAWMN   Leaf area/weight,minimum,fr non stressed (#)
+! LCNCS   Leaf critical N (fr)
+! LLIGP   Leaf lignin (%)
+! LMNCS   Leaf minimum N (fr)
+! LNUMF   Leaf number increase factor for first 2 leaves (#)
+! LRETS   Stage after which dead leaves retained (GrowthStage)
+! LSAWS   Leaf sheath area/weight ratio,standard (cm2/g)
+! LSENF   Leaf N loss,normal senescence (gN/gdwt)
+! LSENS   Leaf senescence X-stage,normal (#)
+! LSEWF   Leaf dry matter loss,normal senescence (fr)
+! LSHFR   Leaf sheath fraction (fr of lamina+sheath)
+! LT50S   Lethal temp,50% kill,unhardened seedling (oC)
+! NFRG    N factor,root growth,coefficient (#)
+! NFSF    N stress fraction lost (fr)
+! NFSM    N factor to trigger maturity senescence (#)
+! NFSU    N stress factor,senescence,upper (fr)
+! NFTIL   N stress factor,tillering,lower (fr)
+! NFTIU   N stress factor,tillering,upper (fr)
+! NH4MN   NH4 minimum concentration for uptake (mg/MG)
+! NO3MN   NO3 minimum concentration for uptake (mg/MG)
+! NTUPF   N top-up fraction (/d)
+! NUMAX   N uptake rate,maximum (fr of available/day)
+! P0      Juvenile phase duration (thermal days)
+! P1DT    Photoperiod threshold (h above which no effect)
+! P1VT    Vernalization threshold (d; only for determining response)
+! P2(1)   Duration terminal spikelet to jointing (DU)
+! P4(1)   Duration end ear growth to anthesis (frP4)
+! P4(2)   Duration anthesis to end anthesis (frP4)
+! PART    Photosynthetically active radiation transmission (fr)
+! PDUR6   Phase duration 6 (post physio.maturity (oC.d)
+! PECM    Emergence phase duration (Thermal units per cm depth)
+! PEG     Germination phase duration (Hydrothermal units)
+! PLASF   Senescence,leaf (fr,start phase)
+! PORMN   Water saturation factor,pore space limit (fr)
+! PTFA    Partition to tops,adjustment coeff.by phase (#)
+! PTFS    Partition to tops,standard,by stage (fr)
+! PTFX    Partition fraction to tops,maximum (fr)
+! RCNCS   Root critical N (fr)
+! RDGTH   Root depth growth,threshold (oC.d)
+! RLDGR   Root length/root depth growth ratio (cm/cm)
+! RLFNU   Root length factor for N uptake (#)
+! RLIGP   Root lignin (%)
+! RLWR    Root length weight ratio (m/(0.01g)
+! RMNCS   Root minimum N (fr)
+! RSEN    Root senescence (fr/standard day)
+! RTREF   Root respiration fraction (fr)
+! RWUMX   Maximum water uptake rate (cm3/cm.d)
+! SAWS    Stem area/weight ratio,standard (cm2/g)
+! SCNCS   Stem critical N (fr)
+! SDAFR   Seed reserves availability (fr/standard d)
+! SDNPC   Seed N (%)
+! SDSZ    Seed size (g/seed)
+! SLIGP   Stem lignin (%)
+! SMNCS   Stem minimum N (fr)
+! SRADT   Solar radiation transmission (fr)
+! SSEN    Stem senescence (fr/standard day)
+! SSSTG   Stem senesence start stage (GrowthStage)
+! STFR    Stem fraction,leaf+stem (fr)
+! TILDF   Tiller death factor,maximum (fr/day)
+! TRDV1   Temperature response,development 1 (oC)
+! TRDV2   Temperature response,development 2 (oC)
+! TRLFG   Temperature response,leaf growth (oC)
+! TRPHS   Temperature response,photosynthesis (oC)
+! TRVRN   Temperature response,vernalization (oC)
+! TRLTH   Temperature response,lethal temperature hardening(oC)
+! TRGFW   Temperature response,grain filling,dry weight(oC)
+! TRGFN   Temperature response,grain filling,N (oC)
+! TRGNO   Temperature response,grain number (oC)
+! WFGEU   Water factor,seed germination,upper (fr)
+! WFNUL   Water factor,N uptake,lower (fr)
+! WFNUU   Water factor,N uptake,upper (fr)
+! WFRDG   Water factor,root depth growth (#)
+! WFRG    Water factor,root growth,upper (#)
+! WFSAG   Water factor,genotype sensitivity to excess water (0-1)
+! WFSF    Water stress factor,fraction lost (fr)
+! WFSU    Water stress factor,senescence,upper (fr)
+! WFTIL   Water stress factor,tillering,lower (fr)
+! WFTIU   Water stress factor,tillering,upper (fr)
+! XNFS    Extractable N during grain filling (fr)
+

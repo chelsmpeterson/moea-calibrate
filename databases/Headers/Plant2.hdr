@@ -1,0 +1,32 @@
+RZWQM2-2D
+*****************************
+* Plot definitions          *
+*   - Num Columns           *
+*   - Num Subplots          *
+*****************************
+   6  2
+*****************************
+* Subplot definitions       *
+*****************************
+1
+0 4
+1  2  4  5
+Individual Factors
+Days
+Plant Wellness
+1
+0 1
+3
+Whole Plant Wellness
+Days
+Plant Wellness
+*****************************
+*       COLUMN LABELS       *
+*****************************
+DAY
+EVP
+PNS
+ENP
+ETP
+EWP
+****************** DATA STARTS HERE *****************

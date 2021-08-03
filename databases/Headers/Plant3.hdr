@@ -1,0 +1,28 @@
+RZWQM2-2D
+*****************************
+* Plot definitions          *
+*   - Num Columns           *
+*   - Num Subplots          *
+*****************************
+   8  1
+*****************************
+* Subplot definitions       *
+*****************************
+1
+0 7
+1  2  3  4  5  6  7
+PHENOGRAPH
+Days
+Number of Plants
+*****************************
+*       COLUMN LABELS       *
+*****************************
+DAY
+DORMANT
+GERMINATING
+EMERGED
+4-LEAF
+VEGETATIVE
+REPRODUCTIVE
+RIPE
+****************** DATA STARTS HERE *****************

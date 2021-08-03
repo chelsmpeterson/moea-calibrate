@@ -1,0 +1,25 @@
+RZWQM2-2D
+*****************************
+* Plot definitions          *
+*   - Num Columns           *
+*   - Num Subplots          *
+*****************************
+   3  1
+*****************************
+* Subplot definitions       *
+*****************************
+4
+0 1 1
+1
+2
+Plant Geometry
+Days
+(cm)
+LAI
+*****************************
+*       COLUMN LABELS       *
+*****************************
+DAY
+HEIGHT
+LEAF AREA
+****************** DATA STARTS HERE *****************

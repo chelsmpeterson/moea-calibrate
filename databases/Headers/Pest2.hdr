@@ -1,0 +1,26 @@
+RZWQM2-2D
+*****************************
+* Plot definitions          *
+*   - Num Columns           *
+*   - Num Subplots          *
+*****************************
+6  1
+*****************************
+* Subplot definitions       *
+*****************************
+1
+0 5
+1 2 3 4	5
+Pesticide #2
+Days
+Mass (kg/ha)
+*****************************
+*       COLUMN LABELS       *
+*****************************
+DAY
+Pest#2 in Soil Water (kg/ha)
+Pest#2 adsorbed (kg/ha)
+Pest#2 in Kinetic Pool (kg/ha)
+Pest#2 in Bound Pool (kg/ha)
+Pest#2 total in soil (kg/ha)
+****************** DATA STARTS HERE *****************

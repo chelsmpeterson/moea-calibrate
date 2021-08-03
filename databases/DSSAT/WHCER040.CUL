@@ -1,0 +1,54 @@
+!CULTIVARS:WHCER040
+! Coefficients used in the Cropsim-Ceres 4.0 model differ from those used
+! in DSSAT Version 3.5. They can be calculated (approximately) from 
+! V3.5 coefficients as follows:
+!
+! P1V   = P1V(v3.5)*10 
+! P1D   = P1D(V3.5)*20
+! P5    = P5(V3.5)*20 + 430
+! G1    = G1(V3.5)*5 + 5
+! G2    = (G2(V3.5)*0.35+0.65) * P5/20
+! G3    = G3(V3.5)*0.7 
+! PHINT = PHINT(V3.5)
+!
+! Translated coefficients should be first used with ecotype coefficients
+! (especially for phenology) that approximate those embedded in the code
+! of the 3.5 model. Ecotypes DS35xx (where xx indicates the value used for
+! phint),which have phenology coefficients comparable to those used in 
+! DSSAT3.5,are presented in the ecotype file.
+!
+! Converted coefficients,and those listed below,should always be
+! tested by using them with real experiments and comparing model 
+! outputs with measured values. 
+! COEFF       DEFINITION
+! ========    ==========
+! VAR#        Identification code or number for the specific cultivar.
+! VAR-NAME    Name of cultivar.
+! ECO#        Ecotype code for this cultivar, points to an entry in the
+!             ECO file
+! P1V         Days at optimum vernalizing temperature required to complete
+!             vernalization.
+! P1D         Percentage reduction in development rate in a photoperiod 10
+!             hour shorter than the threshold relative to that at the
+!             threshold.
+! P5          Grain filling (excluding lag) phase duration (oC.d)
+! G1          Kernel number per unit canopy weight at anthesis (#/g)
+! G2          Standard kernel size under optimum conditions (mg)
+! G3          Standard,non-stressed dry weight (total,including grain) of a
+!             single tiller at maturity (g)
+! PHINT       Interval between successive leaf tip appearances (oC.d)
+!
+*CULTIVARS:WHCER040
+@VAR#  VAR-NAME........   ECO#   P1V   P1D    P5    G1    G2    G3 PHINT 
+!                                  1     2     3     4     5     6     7
+990001 SPRING-HIGH LAT  DSWH04     5    75   450    30    35   1.0    60 
+990002 WINTER-EUROPE    DSWH02    60    75   500    30    40   1.5    95 
+990003 WINTER-US        DSWH03    40    50   400    25    30   1.5    80 
+990004 WINTER-UKRAINE   DSWH03    50    50   450    25    40   1.5    80 
+990005 FACULTATIVE      DSWH04    20    25   500    30    40   1.0    80 
+990006 SPRING-LOW LAT   DSWH04     0    00   600    30    55   1.2    60 
+IB1015 MARIS FUNDIN     UKWH01    60    70   480    17    44   1.7    95 
+IB0488 NEWTON           USWH01    60    64   400    28    28   1.3    80 
+IB0489 NEWTON-Hybrid    DSWH04    9.5  0.5   10     10    4.8  3.0    100 
+IB1500 MANITOU          CAWH01    30    55   370    30    24   1.7    60 
+990010 CHELSEA SRW-US   USWH01    60   120   350    30    28   1.5    80

@@ -1,0 +1,47 @@
+====================================================
+==  
+==  RZWQM-DSSAT CONTROL FILE
+==
+====================================================
+=
+=   FACTORS AND EFFICIENCIES
+=
+= SLNF - SOIL NITIFICATION FACTOR [0..1][DEFAULT=1] NOT REQUIRED BY RZWQM2
+= SLPF - SOIL FERTILITY FACTOR [0..1]
+= EFINOC - INOCULATION EFFICIENCY [0..1]
+= EFNFIX - N FIXATION EFFICIENCY [0..1]
+=
+====================================================
+1.0  1.0  1.0  1.0
+====================================================
+=
+=   SIMULATION CONTROL
+= 
+= ISWWAT - WATER ROUTINES [Y/N]
+= ISWNIT - NITROGEN ROUTINES [Y/N]
+= ISWSYM - SYMBIOSIS ROUTINES [Y/N]
+= ISWPHO - PHOSPHOROUS ROUTINES [Y/N]
+= ISWPOT - POTASSIUM ROUTINES [Y/N]
+= ISWDIS - DISEASE AND PEST ROUTINES [Y/N]
+= ISWPAR - USER ENTERED PAR VALUES [Y/N]
+= ISWPSN - PHOTSYNTHESIS OPTION DAILY(C) HOURLY(L) [C/L]
+====================================================
+Y  Y  Y  N  N  N  N  C
+====================================================
+=
+=   OUTPUT CONTROL
+=
+= IOX   - FILES NAMED WITH EXPERIMENT CODE [Y/N]
+= IDETO - CREATE OVERVIEW FILE [Y/N]
+= IDETS - CREATE SUMMARY FILE [Y/N]
+= FROP  - DETAILED OUTPUT FREQUENCY [DAYS]
+= IDETG - CREATE GROWTH FILE [Y/N]
+= IDETC - CREATE CARBON FILE [Y/N]
+= IDETW - CREATE WATER FILE [Y/N]
+= IDETN - CREATE NITROGEN FILE [Y/N]
+= IDETP - CREATE PHOSPHOROUS FILE [Y/N]
+= IDETD - CREATE DISEASES AND PEST FILE [Y/N]
+= IDETL - CREATE LONG FORMAT OUTPUT FILE [Y/N]
+= TRMTNO - TREATMENT NUMBER (default = 1)
+====================================================
+N  Y  N  10  Y  Y  Y  Y  N  N  N  1

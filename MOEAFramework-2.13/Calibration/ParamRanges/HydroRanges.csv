@@ -1,0 +1,14 @@
+Parameter,Min,Max
+dhdL,1.00E-08,5.00E-06
+Tb1,1,2.5
+Tb2to6,5,25
+Tb7,5,25
+Ksat1,1,3
+Ksat2to6,1,10
+Ksat7,0.1,2
+LKsat1,1,10
+LKsat2to6,1,15
+LKsat7,0.1,2
+Lam1,0.11,0.23
+Lam2to6,0.11,0.23
+Lam7,0.11,0.23

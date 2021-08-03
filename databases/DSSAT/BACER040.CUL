@@ -1,0 +1,52 @@
+!CULTIVARS:BACER040
+!
+! Coefficients used in the Cropsim-Ceres model differ from those used
+! in DSSAT Version 3.5. They can be calculated (approximately) from 
+! V3.5 coefficients as follows:
+!
+! P1V   = P1V(v3.5)*10 
+! P1D   = P1D(V3.5)*20
+! P5    = P5(V3.5)*40 + 300
+! G1    = G1(V3.5)*5 + 5
+! G2    = (G2(V3.5)*0.35+0.65) * P5/20
+! G3    = G3(V3.5)*0.7 
+! PHINT = PHINT(V3.5)
+!
+! Translated coefficients should be first used with ecotype coefficients
+! (especially for phenology) that approximate those embedded in the code
+! of the 3.5 model. Ecotypes DS35xx (where xx indicates the value used for
+! phint),which have phenology coefficients comparable to those used in 
+! DSSAT3.5,are presented in the ecotype file.
+!
+! Converted coefficients,and those listed below,should always be
+! tested by using them with real experiments and comparing model 
+! outputs with measured values. 
+!
+! COEFF       DEFINITION
+! ========    ==========
+! VAR#        Identification code or number for the specific cultivar.
+! VAR-NAME    Name of cultivar.
+! ECO#        Ecotype code for this cultivar, points to an entry in the
+!             ECO file
+! P1V         Days at optimum vernalizing temperature required to complete
+!             vernalization.
+! P1D         Percentage reduction in development rate in a photoperiod 10
+!             hour shorter than the threshold relative to that at the
+!             threshold.
+! P5          Grain filling (excluding lag) phase duration (oC.d)
+! G1          Kernel number per unit canopy weight at anthesis (#/g)
+! G2          Standard kernel size under optimum conditions (mg)
+! G3          Standard,non-stressed dry weight (total,including grain) of a
+!             single tiller at maturity (g)
+! PHINT       Interval between successive leaf tip appearances (oC.d)
+!
+*CULTIVARS:BACER040
+!
+@VAR#  VAR-NAME........   ECO#   P1V   P1D    P5    G1    G2    G3 PHINT 
+!                                  1     2     3     4     5     6     7
+99001  Mediterranean    DSBA01    10    20   200    15    40   1.0    75
+99002  High lat spring  DSBA02     0     0   300    15    40   1.0    55
+99003  High lat winter  DSBA02    60    20   500    25    40   1.0    65
+IB0101 A.Abiad (2)      SYBA01    10    20   200    12    40   0.7    75 
+IB0102 Beecher (6)      SYBA01    10    20   170    14    40   0.7    75 
+IB0030 Maris Badger     USBA01     0    00   650    20    52   1.5    55 

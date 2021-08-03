@@ -1,0 +1,80 @@
+$ECOTYPES:WHCER040
+
+! Coefficients presented here differ from those used in DSSAT 
+! Version 3.5. They have been developed from 'parameters'
+! embedded in the code of the Ceres model,from the Cropsim model,
+! and from the literature. They are likely to change as more
+! experience is gained, and should not yet be taken as fixed.
+!
+! The DS35xx ecotypes are presented as trial sets for use with 
+! cultivar coefficients converted from V3.5 values. In selecting 
+! an ecotype to associate with converted cultivar coefficients, 
+! the xx value should be matched with the PHINT value found in 
+! the cultivar file. 
+!
+! Users who wish to 'experiment' by changing some coefficients
+! are advised to concentrate first on the following:
+!   Phenology                P1
+!   Growth - general         LA1S, LAVS, LAWRS, LAWR2, PARUV, PARUR
+!   Growth - water shortage  RDGS1, RDGS2
+! Users should be extremely cautious in changing the stress response 
+! thresholds (WFPU,NFPU,etc). It is possible that ecotypes differ in 
+! these characteristics, but the extent of such differences is not
+! well understood. However, users should be aware that the threshold 
+! water supply/demand ratio at which water shortage begins to affect 
+! photosynthsis (WFPU) is greater than that (1.0) at which water 
+! shortage begins to affect transpiration. If it is felt that this 
+! is irrealistic,the WFPU parameter could be changed to 1.0
+
+! In Ceres3.5, P1=400 for PHINT=95; P2=phint*3; P3=phint*2; P4=200,
+! with anthesis occurring in P4 after 80 units.
+
+*ECOTYPE:WHCER040
+@ECONO    P1    P2    P3    P4 P4SGE PARUV PARUR  AWNS  LA1S  LAVS  LARS LAWRS LAWR2 LLIFE RSFRS TI1LF GRNMN  GRNS  WFPU  WFGU  NFPU  NFPL  NFGU  NFGL WFPGF RDGS1 RDGS2  TBGF P1DPE HTSTD  KCAN LT50H
+UKWH01   400   285   240   300  4.45   2.8   2.8   0.0   5.0  10.0  20.0   300   260   4.0   0.6   3.0   0.0   2.0   1.5   2.0  1.00   0.0   1.0   0.0   1.0   3.0   2.0   0.0   0.0   100   .85   -15
+USWH01   350   285   240   300  4.45   2.8   2.8   5.0   5.0  10.0  20.0   220   180   4.0   0.3   4.5   0.0   2.0   1.5   2.0  1.00   0.0   1.0   0.0   1.0   3.0   2.0   0.0   0.0   100   .85   -20
+CAWH01   200   200   200   200  4.45   2.8   2.8   0.0   5.0  10.0  20.0   200   160   4.0   0.3   3.5   0.0   3.0   1.5   2.0  1.00   0.0   1.0   0.0   1.0   3.0   2.0   0.0   0.0   100   .85   -10
+
+DSWH02   400   285   240   300  4.45   2.8   2.8   0.0   5.0  10.0  20.0   300   260   4.0   0.6   3.0   0.0   2.0   1.5   2.0  1.00   0.0   1.0   0.0   1.0   3.0   2.0   0.0   0.0   100   .85   -15
+DSWH03   350   285   240   300  4.45   2.8   2.8   5.0   5.0  10.0  20.0   220   180   4.0   0.3   4.5   0.0   2.0   1.5   2.0  1.00   0.0   1.0   0.0   1.0   3.0   2.0   0.0   0.0   100   .85   -20
+DSWH04   200   200   200   200  4.45   2.8   2.8   0.0   5.0  10.0  20.0   200   160   4.0   0.3   3.5   0.0   3.0   1.5   2.0  1.00   0.0   1.0   0.0   1.0   3.0   2.0   0.0   0.0   100   .85   -10
+
+DS3595   400   285   190   200  4.45   2.8   2.8   0.0   5.0  10.0  20.0   250   230   4.0   0.4   3.0   0.0   2.0   1.5   2.0  1.00   0.0   1.0   0.0   1.0   3.0   2.0   0.0   0.0   100   .85   -15
+DS3585   360   240   160   200  4.45   2.8   2.8   0.0   5.0  10.0  20.0   250   230   4.0   0.4   3.0   0.0   2.0   1.5   2.0  1.00   0.0   1.0   0.0   1.0   3.0   2.0   0.0   0.0   100   .85   -15
+DS3565   275   195   120   200  4.45   2.8   2.8   0.0   5.0  10.0  20.0   250   230   4.0   0.4   3.0   0.0   2.0   1.5   2.0  1.00   0.0   1.0   0.0   1.0   3.0   2.0   0.0   0.0   100   .85   -15
+
+! COEFF   DEFINITION
+! =====   ==========
+! AWNS    Awn score (0-10;10=very long)
+! ECONO   Code for the ecotype (code)
+! GRNMN   Minimum grain N (%)
+! GRNS    Standard grain N (%)
+! HTSTD   Standard canopy height (cm)
+! KCAN    PAR extinction coefficient (#)
+! LAWRS   Lamina area to weight ratio of standard first leaf (cm2/g)
+! LAWR2   Lamina area to weight ratio,phase 2 (cm2/g)
+! LA1S    Area of standard first leaf (cm2)
+! LAVS    Area of standard vegetative phase leaf (cm2)
+! LARS    Area of standard reproductive phase leaf (cm2)
+! LLIFE   Life of leaves during vegetative phase (phyllochrons)
+! LT50H   Cold tolerance when fully hardened (oC)
+! NFGL    N stress factor,growth,lower (fr)
+! NFGU    N stress factor,growth,upper (fr)
+! NFPL    N stress factor,photosynthesis,lower (fr)
+! NFPU    N stress factor,photosynthesis,upper (fr)
+! PARUV   PAR conversion to dm ratio,before last leaf stage (g/MJ)
+! PARUR   PAR conversion to dm ratio,after last leaf stage (g/MJ)
+! P1      Duration of phase end juvenile to double ridges (PVTU)
+! P2      Duration of phase double ridges to end leaf growth (TU)
+! P3      Duration of phase end leaf growth to end spike growth (TU)
+! P4      Duration of phase end spike growth to end grain fill lag (TU)
+! P4SGE   Stem growth end stage (GrowthStage)
+! RDGS1   Root depth growth rate,early phase (cm/standard d)
+! RDGS2   Root depth growth rate,later phases (cm/standard d)
+! RSFRS   Reserves fraction of assimilates going to stem (#)
+! TI1LF   Tillering threshold (leaf # to start tillering) (#)
+! WFGU    Water stress factor,growth,upper (fr)
+! WFPU    Water stress factor,photosynthesis,upper (fr)
+! WFPGF   Water factor,genotype sensitivity to stress when grain filling (0-1)
+! TBGF    Temperature base,grain filling (oC)
+! P1DPE   Daylength factor,pre emergence (#,0-1)

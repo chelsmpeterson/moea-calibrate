@@ -1,0 +1,41 @@
+RZWQM2-2D
+*****************************
+* Plot definitions	    *
+*   - Num Columns		    *
+*   - Num Subplots          *
+*****************************
+  7  3
+*****************************
+* Subplot definitions       *
+*****************************
+1
+0 2
+1 2
+Partitioned Uptake
+Days
+Uptake(kg/ha)
+3
+0 2 1
+1 2
+4
+Partitioned Uptake
+Days
+Uptake(kg/ha)
+Ratio
+1
+0 2
+3 5
+Plant Demand
+Days
+Uptake (kg/ha)
+*****************************
+*       COLUMN LABELS       *
+*****************************
+DAY
+PASSIVE NITROGEN UPTAKE(kg/ha)
+ACTIVE NITROGEN UPTAKE (kg/ha)
+TOTAL NITROGEN UPTAKE (kg/ha)
+RATIO OF ACTIVE/TOTAL (kg/ha)
+PLANT NITROGEN DEMAND (kg/ha)
+LUXURY PLANT UPTAKE (kg/ha)
+****************** DATA STARTS HERE *****************

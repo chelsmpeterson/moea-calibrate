@@ -1,0 +1,75 @@
+RZWQM2-2D
+*****************************
+* Plot definitions          *
+*   - Num Columns           *
+*   - Num Subplots          *
+*****************************
+   17  7
+*****************************
+* Subplot definitions       *
+*****************************
+3
+0 8 8
+1 2 3 4 5 6 7 8
+9 10 11 12 13 14 15 16
+Plant Biomass/Nitrogen
+Days
+Biomass
+Nitrogen
+1
+0 3
+1 2 4
+Above Ground Biomass
+Days
+Biomass (g)
+1
+0 2
+3 5
+Seed Biomass
+Days
+Biomass (g)
+1
+0 3
+6 7 8
+Dead Biomass
+Days
+Biomass(g)
+1
+0 3
+9 10 12
+Above Ground Nitrogen
+Days
+Nitrogen (g)
+1
+0 2
+11 13
+Seed Nitrogen
+Days
+Nitrogen (g)
+1
+0 3
+14 15 16
+Dead Nitrogen
+Days
+Nitrogen (g)
+*****************************
+*       COLUMN LABELS       *
+*****************************
+DAY
+LEAF BIOMASS (G)
+STEM BIOMASS (G)
+PROPAGULE BIOMASS (G)
+ROOT BIOMASS (G)
+SEED BIOMASS (G)
+STANDING DEAD BIOMASS (G)
+LITTER BIOMASS (G)
+DEAD ROOT BIOMASS (G)
+LEAF NITROGEN (G)
+STEM NITROGEN (G)
+PROPAGULE NITROGEN (G)
+ROOT NITROGEN (G)
+SEED NITROGEN (G)
+STANDING DEAD NITROGEN (G)
+LITTER NITROGEN (G)
+DEAD ROOT NITROGEN (G)
+****************** DATA STARTS HERE *****************

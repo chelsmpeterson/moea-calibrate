@@ -1,0 +1,16 @@
+*SUNFLOWER ECOTYPE COEFFICIENTS: GECER040 MODEL
+
+!                                1     2     3     4     5     6     7     8     9    10    11    12    13    14    15    16    17    18    19
+@ECO#  ECONAME.........  TBASE TOPT  ROPT  P20   DJTI  GDDE  DSGFT  RUE   KCAN
+IB0001 GENERIC MIDWEST1    4.0 28.0  28.0  12.5   3.0  11.9   170.  1.4   0.86
+
+!TBASE - base temperature below which no development occurs, C
+!TOPT - temperature at which maximum development rate occurs during vegetative stages, C
+!ROPT - temperature at which maximum development rate occurs for reproductive stages, C
+!P2O -  Daylength below which daylength does not affect development rate, hours
+!DJTI - Minimum days from end of juvenile stage to tassel initiation if the cultivar
+!	       is not photoperiod sensitive, days
+!GDDE - Growing degree days per cm seed depth required for emergence, GDD/cm
+!DSGFT - GDD from silking to effective grain filling period, C
+!RUE - Radiation use efficiency, g plant dry matter/MJ PAR
+!KCAN - Canopy light extinction coefficient for daily PAR.
